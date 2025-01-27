@@ -1,0 +1,724 @@
+[
+    {
+        "Patrimônio": "Edifício do Antigo Banco de São Paulo",
+        "Localização": "Praça Antônio Prado, nº9 – Centro",
+        "Número_do_Processo": "41.967/01",
+        "Resolução_de_Tombamento": "Resolução 44 de 05/06/03",
+        "Livro_do_Tombo_Histórico": "inscrição nº 340, p.88, 19/08/2003"
+    },
+    {
+        "Patrimônio": "Edifício do antigo DOPS – atual Estação Pinacoteca",
+        "Localização": "Praça General Osório, 66, 88, 120 e 136 – bairro: Santa Ifigênia",
+        "Número_do_Processo": "38685/99",
+        "Resolução_de_Tombamento": "Resolução 28 de 08/07/1999",
+        "Livro_do_Tombo_Histórico": "inscrição nº 327, p. 82 e 83, 09/03/2000"
+    },
+    {
+        "Patrimônio": "Edifício do Banco Itaú, anteriormente sede do Banco Sulamericano",
+        "Localização": "Av. Paulista nº 1938/1948",
+        "Número_do_Processo": "33183/95",
+        "Resolução_de_Tombamento": "Resolução 81 de 20/08/2013",
+        "Livro_do_Tombo_Histórico": "inscrição nº 405, pgs. 119 e 120"
+    },
+    {
+        "Patrimônio": "Edifício do Centro Cultural Banco do Brasil",
+        "Localização": "Rua Álvares Penteado, 112",
+        "Número_do_Processo": "24084/85",
+        "Resolução_de_Tombamento": "Resolução SC 40 de 02/09/2004; retificação na Resolução SC 131 de 26/12/2018.",
+        "Livro_do_Tombo_Histórico": "inscrição nº 345, p. 92, 19/01/2005."
+    },
+    {
+        "Patrimônio": "Edifício do Instituto dos Arquitetos do Brasil",
+        "Localização": "Rua Bento Freitas, 306 – Vila Buarque",
+        "Número_do_Processo": "31622/94",
+        "Resolução_de_Tombamento": "Resolução SC 41 de 17/1/02",
+        "Livro_do_Tombo_Histórico": "Inscrição nº 331, p. 84, 7/2/2002"
+    },
+    {
+        "Patrimônio": "Edifício do Moinho Fratelli Maciotta (Fábrica de Sal)",
+        "Localização": "Av. Humberto de Campos",
+        "Número_do_Processo": "75906/16",
+        "Resolução_de_Tombamento": "Resolução 15 de 26/02/18",
+        "Livro_do_Tombo_Histórico": "inscrição nº 179, p. 150"
+    },
+    {
+        "Patrimônio": "Edifício Esther",
+        "Localização": "Praça da República, 64 a 80",
+        "Número_do_Processo": "23262/85",
+        "Resolução_de_Tombamento": "Resolução 25 de 24/08/1990",
+        "Livro_do_Tombo_Histórico": "inscrição nº 294, p.74, 19/09/1990"
+    },
+    {
+        "Patrimônio": "Edifício Louveira",
+        "Localização": "Rua Piauí, 1081 – Higienópolis",
+        "Número_do_Processo": "23387/85",
+        "Resolução_de_Tombamento": "Resolução 44 de 18/12/1992",
+        "Livro_do_Tombo_Histórico": "inscrição nº 306, p. 77, 28/05/1993"
+    },
+    {
+        "Patrimônio": "Edifício Paço da Nóbrega",
+        "Localização": "Avenida Iperoig, esquina com a Rua da Conceição",
+        "Número_do_Processo": "24161/85",
+        "Resolução_de_Tombamento": "Resolução 68 de 13/12/85",
+        "Livro_do_Tombo_Histórico": "inscrição nº 248, p. 66, 22/1/1987"
+    },
+    {
+        "Patrimônio": "Edifício Saldanha Marinho",
+        "Localização": "Rua Líbero Badaró, 39",
+        "Número_do_Processo": "23304/85",
+        "Resolução_de_Tombamento": "Resolução 39 de 08/09/1986",
+        "Livro_do_Tombo_Histórico": "inscrição nº 256, p. 68, 23/01/1987"
+    },
+    {
+        "Patrimônio": "Edifício Sobre as Ondas e Casa de Pedra",
+        "Localização": "Av. General Rondon nº 30 (Edifício) e nº 77 (Casa)",
+        "Número_do_Processo": "39297/99 e 63106/10",
+        "Resolução_de_Tombamento": "Resolução 44 de 05/07/2013",
+        "Livro_do_Tombo_Histórico": "inscrição nº 403, pgs. 118 e 119"
+    },
+    {
+        "Patrimônio": "Edifícios da antiga fábrica da Companhia Gessy Industrial",
+        "Localização": "Rua Campos Salles, 20 – Valinhos",
+        "Número_do_Processo": "59526/09",
+        "Resolução_de_Tombamento": "Resolução 128 de 19/12/16",
+        "Livro_do_Tombo_Histórico": "Inscrição nº 464, p. 141 e 142"
+    },
+    {
+        "Patrimônio": "Edifícios Paulicéia e São Carlos do Pinhal",
+        "Localização": "Avenida Paulista, 960 e Rua São Carlos do Pinhal, 345",
+        "Número_do_Processo": "52.840/05",
+        "Resolução_de_Tombamento": "Resolução SC-11, de 11.03.2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 369, pg. 101."
+    },
+    {
+        "Patrimônio": "EE Conselheiro Crispiniano (antigo Ginásio de Guarulhos)",
+        "Localização": "Av. Arminda de Lima nº 57 – Vila Progresso – Guarulhos",
+        "Número_do_Processo": "54292/05",
+        "Resolução_de_Tombamento": "Resolução 80 de 30/07/14",
+        "Livro_do_Tombo_Histórico": "inscrição nº 419, p.125."
+    },
+    {
+        "Patrimônio": "EE Conselheiro Rodrigues Alves",
+        "Localização": "Rua Visconde de Guaratinguetá, 224 – Guaratinguetá",
+        "Número_do_Processo": "25592/87",
+        "Resolução_de_Tombamento": "Resolução Secretaria da Cultura 8 de 04/05/89",
+        "Livro_do_Tombo_Histórico": "inscrição nº 287, p. 73, 08/06/1989"
+    },
+    {
+        "Patrimônio": "EE Pastor Francisco Paiva de Figueiredo (antiga EEPG Conceiçãozinha)",
+        "Localização": "Rua Hélio Ferreira nº 540 – Guarujá",
+        "Número_do_Processo": "45961/03",
+        "Resolução_de_Tombamento": "Resolução 79, de 30/07/14",
+        "Livro_do_Tombo_Histórico": "inscrição nº 418, p.125"
+    },
+    {
+        "Patrimônio": "EE Peixoto Gomide, EE Cel. Fernando Prestes e EE Adherbal de Paula Ferreira",
+        "Localização": "Avenida Peixoto Gomide, 198, 126 e 250",
+        "Número_do_Processo": "25589/87",
+        "Resolução_de_Tombamento": "Resolução Secretaria da Cultura 188 de 12/12/02",
+        "Livro_do_Tombo_Histórico": "inscrição nº 337, p. 87, 28/05/2003"
+    },
+    {
+        "Patrimônio": "EE/CEFAM DR. Francisco Thomaz de Carvalho",
+        "Localização": "Praça Dr. Carvalho, 281",
+        "Número_do_Processo": "25.593/87",
+        "Resolução_de_Tombamento": "Resolução 189 de 12/12/2002",
+        "Livro_do_Tombo_Histórico": "inscrição nº 338, p. 87, 28/05/2003"
+    },
+    {
+        "Patrimônio": "EEPG Cel. Paulino Carlos",
+        "Localização": "Rua Dona Alexandrina, 1087 – CEP 13560-290, São Carlos",
+        "Código_Sec._Est._Educ.": "06.94.105",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "EEPG Rodrigues Alves",
+        "Localização": "Avenida Paulista, 227 – bairro: Paraíso",
+        "Número_do_Processo": "22106/82",
+        "Resolução_de_Tombamento": "Resolução 21 de 10/4/85",
+        "Livro_do_Tombo_Histórico": "Inscrição nº 236, p. 64, 20/01/1987"
+    },
+    {
+        "Patrimônio": "EEPG Simão da Silva",
+        "Localização": "Praça Dom Alberto Gonçalves, 122 – CEP 14200-000 – São Simão",
+        "Código_Sec._Est._Educ.": "06.17.101",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "EEPSG Padre Anchieta",
+        "Localização": "Av. Rangel Pestana, 2.401",
+        "Número_do_Processo": "25591/87",
+        "Resolução_de_Tombamento": "Resolução 30 de 17/06/1988",
+        "Livro_do_Tombo_Histórico": "inscrição nº 280, p. 72, 18/07/1988"
+    },
+    {
+        "Patrimônio": "EMEF Américo Salles Oliveira",
+        "Localização": "Rua 7 de Setembro, 121 – CEP 14680-000 – Jardinópolis",
+        "Código_Sec._Est._Educ.": "06.09.101",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "EMEF Barão Santa Branca",
+        "Localização": "Rua Nestor Samuel de Oliveria, 193 – CEP 12380-000 – Santa Branca",
+        "Código_Sec._Est._Educ.": "03.07.103",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "EMEF Cap. José Carlos de Oliveira Garcez",
+        "Localização": "Praça Pe. Francisco das Chagas Neves, 168 – CEP 12800-000 – Queluz",
+        "Código_Sec._Est._Educ.": "03.33.101",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "EMEF Cel. Acácio Piedade",
+        "Localização": "Av. Cel Acácio Piedade, 657 – CEP 18400-000 – Itapeva",
+        "Código_Sec._Est._Educ.": "04.46.101",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011"
+    },
+    {
+        "Patrimônio": "EMEF Cel. Joaquim da Cunha",
+        "Localização": "Rua Carlos Gomes, 170 – CEP 14350-000 – Altinópolis",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011.",
+        "Código_Sec._Est._Educ.": "06.01.101"
+    },
+    {
+        "Patrimônio": "EMEF Cel. Julio César",
+        "Localização": "Rua Rangel Pestana, 326 – CEP 13250-250 – Itatiba",
+        "Código_Sec._Est._Educ.": "05.81.101",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011"
+    },
+    {
+        "Patrimônio": "EMEF Cel. Leite",
+        "Localização": "Rua 13 de Maio, 598 – CEP 17120-000",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "EMEF Cel. Ribeiro da Luz",
+        "Localização": "EMEF Cel. Ribeiro da Luz",
+        "Código_Sec._Est._Educ.": "03.09.101",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "EMEF Cel. Thomaz Gonçalves da Rocha Cunha",
+        "Localização": "Av. Dr. Cândido Rodrigues, 100 – CEP 12970-000, Piracaia",
+        "Código_Sec._Est._Educ.": "05.97.102",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "EMEF Cel. Tobias",
+        "Localização": "Rua Dr. Cons. Antonio Prado, 636 – CEP 13690-000 – Descalvado",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011.",
+        "Código_Sec._Est._Educ.": "06.91.101"
+    },
+    {
+        "Patrimônio": "EMEF Dep. Leônidas Pacheco Ferreira",
+        "Localização": "Rua Sete de Setembro, 357 – CEP 17240-000 – Bocaina",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011.",
+        "Código_Sec._Est._Educ.": "07.35.101"
+    },
+    {
+        "Patrimônio": "EMEF Domingues da Silva",
+        "Localização": "Rua Visconde do Rio Branco, 719 – CEP 15900-000, Taquaritinga",
+        "Código_Sec._Est._Educ.": "06.69.102",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "EMEF Dr. Augusto Reis",
+        "Localização": "Av. Irmã Cintra, s/nº – CEP 18650-000, São Manuel",
+        "Código_Sec._Est._Educ.": "04.71.103",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "EMEF Dr. Casemiro Rocha",
+        "Localização": "Praça 9 de Julho, 905 – CEP 12530-000 – Cunha",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011.",
+        "Código_Sec._Est._Educ.": "03.27.102"
+    },
+    {
+        "Patrimônio": "EMEF Dr. Jorge Tibiriçá",
+        "Localização": "Rua Cel Leme, s/n° – CEP 12900-000 – Bragança Paulista",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011.",
+        "Código_Sec._Est._Educ.": "05.92.103"
+    },
+    {
+        "Patrimônio": "EMEF Dr. Pádua Salles",
+        "Localização": "Rua Edgard Ferraz, 665 – CEP 17201-440 – Jaú",
+        "Código_Sec._Est._Educ.": "07.41.106",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011"
+    },
+    {
+        "Patrimônio": "EMEF Dr. Raul da Rocha Medeiros",
+        "Localização": "Praça da Bandeira, 43 – CEP 15910-000 – Monte Alto",
+        "Código_Sec._Est._Educ.": "06.62.102",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "EMEF Eliazar Braga",
+        "Localização": "Rua Eliazar Braga, 132 – CEP 17280-000, Pederneiras",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "EMEF Esperança de Oliveira",
+        "Localização": "Rua Anita Garibaldi, 959 – CEP 18683-060",
+        "Código_Sec._Est._Educ.": "07.10.102",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "EMEF Fabiano Alves de Freitas",
+        "Localização": "Rua Cel. Augusto Barbosa, 96 – CEP 14500-000 – Ituverava",
+        "Código_Sec._Est._Educ.": "06.39.101",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "EMEF Francisco Ribeiro",
+        "Localização": "Praça Voluntário Silvano, s/n° – CEP 13670-000 – Santa Rita do Passa Quatro",
+        "Código_Sec._Est._Educ.": "06.14.102",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "EMEF Gustavo Teixeira",
+        "Localização": "Av. Irmã Cintra, s/nº – CEP 18650-000 – São Pedro",
+        "Código_Sec._Est._Educ.": "05.37.102",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "EMEF Paulo Thomas da Silva",
+        "Localização": "Praça Bandeira, 111 – CEP 18690-000 – Itatinga",
+        "Código_Sec._Est._Educ.": "04.58.102",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011"
+    },
+    {
+        "Patrimônio": "EMEF Prof. Anacleto Cruz",
+        "Localização": "Rua Aprígio de Araújo, 769 CEP 14160-000 – Sertãozinho",
+        "Código_Sec._Est._Educ.": "06.20.102",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "EMEF Sud Menucci",
+        "Localização": "Rua Cel. Procópio de Carvalho, 352 – CEP 13660-000 – Porto Ferreira",
+        "Código_Sec._Est._Educ.": "05.47.102",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "EMEI Dr. Cardoso de Almeida",
+        "Localização": "Praça Prof. Martinho Nogueira, s/n. – CEP 18600-010 – Botucatu",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011.",
+        "Código_Sec._Est._Educ.": "04.67.103"
+    },
+    {
+        "Patrimônio": "Engenho Central",
+        "Localização": "Av. Maurice Allain – Piracicaba",
+        "Número_do_Processo": "61039/10",
+        "Resolução_de_Tombamento": "Resolução 92 de 25/08/14",
+        "Livro_do_Tombo_Histórico": "inscrição nº 421, p.126."
+    },
+    {
+        "Patrimônio": "Equipamentos de Saúde – Bairro Cerqueira César",
+        "Localização": "",
+        "Número_do_Processo": "52290/05",
+        "Resolução_de_Tombamento": "Resolução SC-31, de 19/12/19."
+    },
+    {
+        "Patrimônio": "Ermida de Santo Antônio de Guaíbe",
+        "Localização": "Extremo norte da Ilha de Santo Amaro – Guarujá",
+        "Número_do_Processo": "20075/76",
+        "Resolução_de_Tombamento": "Resolução de 09/12/1977",
+        "Livro_do_Tombo_Histórico": "inscrição nº 123, p. 21, 03/07/1979"
+    },
+    {
+        "Patrimônio": "Escola de Primeiras Letras",
+        "Localização": "Rua Aguiar de Barros, 160 – Bela Vista",
+        "Número_do_Processo": "26299/88",
+        "Resolução_de_Tombamento": "Resolução Secretaria da Cultura 47 de 18/12/92",
+        "Livro_do_Tombo_Histórico": "inscrição nº 308, p. 78, 28/06/1993"
+    },
+    {
+        "Patrimônio": "Escola do Povo de São Vicente",
+        "Localização": "Praça Coronel José Lopes, 387",
+        "Número_do_Processo": "75385/15",
+        "Resolução_de_Tombamento": "Resolução SC-44 de 19/12/19."
+    },
+    {
+        "Patrimônio": "Escola do Povo Ferreira Penteado",
+        "Localização": "Rua Regente Feijó nº 824, Campinas",
+        "Número_do_Processo": "65349/11",
+        "Resolução_de_Tombamento": "Resolução 83 de 23/07/2015"
+    },
+    {
+        "Patrimônio": "Escola Estadual Emiko Fujimoto, antigo Centro Educacional de Paranavaí",
+        "Localização": "Estrada Mauá e Adutora Rio Claro – Mauá",
+        "Número_do_Processo": "45956/03",
+        "Resolução_de_Tombamento": "Resolução 09 de 26/02/2013",
+        "Livro_do_Tombo_Histórico": "inscrição nº 394, p. 114"
+    },
+    {
+        "Patrimônio": "Escola Normal de Campinas",
+        "Localização": "Avenida Anchieta, 60",
+        "Número_do_Processo": "21822/81",
+        "Resolução_de_Tombamento": "Resolução SC 57 de 13/05/82",
+        "Livro_do_Tombo_Histórico": "inscrição nº 183, p. 43, 16/06/1982"
+    },
+    {
+        "Patrimônio": "Escola Normal de Pirassununga",
+        "Localização": "Rua José Bonifácio",
+        "Número_do_Processo": "21717/81",
+        "Resolução_de_Tombamento": "Resolução SC 44 de 12/05/1982",
+        "Livro_do_Tombo_Histórico": "inscrição nº 184, p. 43, 16/06/1982"
+    },
+    {
+        "Patrimônio": "Escola SESC – SENAC",
+        "Localização": "Rua Nelson Spielmann esquina com a Rua Paraíba",
+        "Número_do_Processo": "27945/90",
+        "Resolução_de_Tombamento": "Resolução SC 47 de 14/09/2004",
+        "Livro_do_Tombo_Histórico": "inscrição nº 347, p. 93, 31/01/2005"
+    },
+    {
+        "Patrimônio": "Estação Barracão",
+        "Localização": "Avenida dom Pedro I, esquina com a rua Rio Grande do Sul",
+        "Número_do_Processo": "21364/80",
+        "Resolução_de_Tombamento": "Resolução Secretaria da Cultura 31 de 07/05/82",
+        "Livro_do_Tombo_Histórico": "inscrição nº 184, p. 43, 16/06/1982"
+    },
+    {
+        "Patrimônio": "Estação da Luz",
+        "Localização": "Praça da Luz, s/n",
+        "Número_do_Processo": "20097/76",
+        "Resolução_de_Tombamento": "Resolução 25 de 05/05/1982",
+        "Livro_do_Tombo_Histórico": "inscrição nº 185, p. 65, 16/06/1982"
+    },
+    {
+        "Patrimônio": "Estação de Bondes do Brás",
+        "Localização": "Av. Celso Garcia nº 158 – Brás",
+        "Número_do_Processo": "28682/91",
+        "Resolução_de_Tombamento": "Res SC 02 de 23.01.2008",
+        "Livro_do_Tombo_Histórico": "inscrição nº 359, p. 97-98, 12/03/2008"
+    },
+    {
+        "Patrimônio": "Estação do Brás",
+        "Localização": "Rua Domingos Paiva, s/n e Praça Agente Cícero, s/n",
+        "Número_do_Processo": "20699/78",
+        "Resolução_de_Tombamento": "Resolução 22 de 3/5/82",
+        "Livro_do_Tombo_Histórico": "inscrição nº 176, p. 41, 26/05/1982"
+    },
+    {
+        "Patrimônio": "Estação Elevatória de Esgotos",
+        "Localização": "Av. do Estado nº 787",
+        "Número_do_Processo": "57881/08",
+        "Resolução_de_Tombamento": "Resolução 39 de 16/07/2012",
+        "Livro_do_Tombo_Histórico": "inscrição nº 385, p. 111, 11/10/2012"
+    },
+    {
+        "Patrimônio": "Estação Ferroviária",
+        "Localização": "Praça Condessa de Frontin",
+        "Número_do_Processo": "22090/82",
+        "Resolução_de_Tombamento": "Resolução 68 de 17/12/82",
+        "Livro_do_Tombo_Histórico": "inscrição nº 206, p. 56, 29/12/1982"
+    },
+    {
+        "Patrimônio": "Estação Ferroviária de Bananal",
+        "Localização": "Ramal de Barra Mansa – Praça D. Domiciana – Bananal",
+        "Número_do_Processo": "15465/69",
+        "Resolução_de_Tombamento": "Resolução de 10/7/74",
+        "Livro_do_Tombo_Histórico": "inscrição nº 84, p. 9, 24/07/1974"
+    },
+    {
+        "Patrimônio": "Estação Ferroviária de Cachoeira Paulista",
+        "Localização": "Cachoeira Paulista",
+        "Número_do_Processo": "20316/77",
+        "Resolução_de_Tombamento": "Resolução 12 de 18/4/82",
+        "Livro_do_Tombo_Histórico": "inscrição nº 168, p. 38, 07/05/1982"
+    },
+    {
+        "Patrimônio": "Estação Ferroviária de Campinas",
+        "Localização": "Praça Marechal Floriano Peixoto, s/n – Campinas",
+        "Número_do_Processo": "20682/78",
+        "Resolução_de_Tombamento": "Resolução 9 de 15/4/82",
+        "Livro_do_Tombo_Histórico": "inscrição nº 170, p. 39, 17/05/1982"
+    },
+    {
+        "Patrimônio": "Estação Ferroviária de Descalvado",
+        "Localização": "Descalvado",
+        "Número_do_Processo": "23320/85",
+        "Resolução_de_Tombamento": "Resolução 9 de 22/1/87",
+        "Livro_do_Tombo_Histórico": "inscrição nº 273, pp. 70 e 71, 26/03/1987"
+    },
+    {
+        "Patrimônio": "Estação Ferroviária de Mairinque",
+        "Localização": "Estação Ferroviária de Mairinque",
+        "Número_do_Processo": "24383/86",
+        "Resolução_de_Tombamento": "Resolução 46 de 28/10/86",
+        "Livro_do_Tombo_Histórico": "inscrição nº 257, p. 68, 23/01/1987"
+    },
+    {
+        "Patrimônio": "Estação Ferroviária de Pindamonhangaba e seu pátio envoltório",
+        "Localização": "Praça Barão Homem de Mello s/nº",
+        "Número_do_Processo": "61983/10",
+        "Resolução_de_Tombamento": "Resolução SC-60 de 19/12/2017"
+    },
+    {
+        "Patrimônio": "Estação Ferroviária de Piquete",
+        "Localização": "Avenida Tancredo Neves; Rua Duque de Caxias; Rua General Frutuoso Mendes – Piquete",
+        "Número_do_Processo": "24271/86",
+        "Resolução_de_Tombamento": "Resolução SC-09, de 21/01/2014; retificação na Resolução SC-131, de 26/12/2018.",
+        "Livro_do_Tombo_Histórico": "inscrição nº 412, p. 123."
+    },
+    {
+        "Patrimônio": "Estação Ferroviária de Rio Claro",
+        "Localização": "Rua 1",
+        "Número_do_Processo": "22295/82",
+        "Resolução_de_Tombamento": "Resolução Secretaria da Cultura 64 de 14/11/85",
+        "Livro_do_Tombo_Histórico": "inscrição nº 246, p. 66, 22/01/1987"
+    },
+    {
+        "Patrimônio": "Estação Ferroviária de Santa Rita do Passa Quatro",
+        "Localização": "Pátio da Estação, s/n ou Avenida Paulista, s/n",
+        "Número_do_Processo": "00467/74",
+        "Resolução_de_Tombamento": "Resolução 17 de 23/5/81",
+        "Livro_do_Tombo_Histórico": "inscrição nº 146, p. 26, 02/06/1981"
+    },
+    {
+        "Patrimônio": "Estádio Paulo Machado de Carvalho",
+        "Localização": "Praça Charles Miller – bairro: Pacaembu",
+        "Número_do_Processo": "26.288/88",
+        "Resolução_de_Tombamento": "Resolução de 21/1/98",
+        "Livro_do_Tombo_Histórico": "inscrição nº 322, p. 81, 26/08/1998"
+    },
+    {
+        "Patrimônio": "Estrada do Lorena, Monumentos de Victor Dubugras e Área de Mata Circundante",
+        "Localização": "Caminho do Mar ou Estrada Velha de Santos",
+        "Número_do_Processo": "00123/72",
+        "Resolução_de_Tombamento": "Resolução de 11/8/72",
+        "Livro_do_Tombo_Histórico": "inscrição nº 122, p. 21, 03/07/1979"
+    },
+    {
+        "Patrimônio": "Etec Carlos de Campos",
+        "Localização": "Rua Monsenhor Andrade, 798 – CEP 03008-001, São Paulo",
+        "Código_Sec._Est._Educ.": "00.24.104",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "Fábrica Lidgerwood",
+        "Localização": "Av. Andrade Neves, 1",
+        "Número_do_Processo": "25481/87",
+        "Resolução_de_Tombamento": "Resolução 68 de 19/12/2017.",
+        "Livro_do_Tombo_Histórico": "inscrição nº 463, p. 140 a 141."
+    },
+    {
+        "Patrimônio": "Fábrica Têxtil Nossa Senhora da Ponte",
+        "Localização": "Rua Doutor Afonso Vergueiro 823",
+        "Número_do_Processo": "58349/08",
+        "Resolução_de_Tombamento": "Resolução 63 de 19/12/2017.",
+        "Livro_do_Tombo_Histórico": "inscrição nº 465, p.142."
+    },
+    {
+        "Patrimônio": "Fachada do imóvel situado na Rua Barão de Jundiaí nº 736",
+        "Localização": "Rua Barão de Jundiaí nº 736 – Jundiaí",
+        "Número_do_Processo": "64142/11",
+        "Resolução_de_Tombamento": "Resolução 43 de 04/07/2013",
+        "Livro_do_Tombo_Histórico": "inscrição nº 402, pg. 118."
+    },
+    {
+        "Patrimônio": "Faculdade de Arquitetura e Urbanismo – USP",
+        "Localização": "Rua do Lago, no 876 – Cidade Universitária",
+        "Número_do_Processo": "21736/81",
+        "Resolução_de_Tombamento": "Resolução 26 de 23/7/81",
+        "Livro_do_Tombo_Histórico": "inscrição nº 198, p. 48, 21/07/1982"
+    },
+    {
+        "Patrimônio": "Faculdade de Direito da Universidade de São Paulo e Tribuna Livre",
+        "Localização": "Largo de São Francisco",
+        "Número_do_Processo": "21369/80",
+        "Resolução_de_Tombamento": "Resolução 185 de 12/12/02",
+        "Livro_do_Tombo_Histórico": "inscrição nº 335, p. 86, 12/02/2003"
+    },
+    {
+        "Patrimônio": "Faculdade de Filosofia, Ciências e Letras – USP",
+        "Localização": "Rua Maria Antônia, 294 e 310 – Vila Buarque",
+        "Número_do_Processo": "23394/85",
+        "Resolução_de_Tombamento": "Resolução 53 de 3/10/88",
+        "Livro_do_Tombo_Histórico": "inscrição nº 284, p. 73, 08/06/1989"
+    },
+    {
+        "Patrimônio": "Faculdade de Medicina – USP",
+        "Localização": "Avenida Dr. Arnaldo, 445",
+        "Número_do_Processo": "20625/78",
+        "Resolução_de_Tombamento": "Resolução 8 de 16/03/1981, revogada pela Resolução SC-31,  de 19/12/19.",
+        "Livro_do_Tombo_Histórico": "inscrição nº 1, p. 26, 29/05/1981"
+    },
+    {
+        "Patrimônio": "Fazenda Cachoeira",
+        "Localização": "Rua Frank Salles, s/nº – Bairro Cachoeira – Vinhedo",
+        "Número_do_Processo": "38.764/99",
+        "Resolução_de_Tombamento": "Resolução SC-51, de 1-10-2007",
+        "Livro_do_Tombo_Histórico": "inscrição nº 356, p. 96-97, 12/03/2008"
+    },
+    {
+        "Patrimônio": "Fazenda Lageado, atual Campus da UNESP",
+        "Localização": "Rodovia Alcides Soares – Botucatu",
+        "Número_do_Processo": "59527/09",
+        "Resolução_de_Tombamento": "Resolução 42 de 04/07/2013",
+        "Livro_do_Tombo_Histórico": "inscrição nº 401, pg. 118."
+    },
+    {
+        "Patrimônio": "Fazenda Pau d’Alho",
+        "Localização": "Estrada dos Tropeiros – São José do Barreiro-SP",
+        "Texto": "O coronel João Ferreira de Souza, um dos fundadores do povoado de São José do Barreiro e proprietário da fazenda desde 1818, iniciou por esta época a construção de sua sede. Ao morrer, em 1858, deixou a propriedade, bastante próspera, à sua filha Maria Ferreira Ayrosa. Por volta de 1900, sob a administração de seu neto, o comendador Zebedeu Antonio Ayrosa, já se constatava a sua decadência. A sede da Fazenda Pau d’Alho, em taipa de pilão e embasamento de pedra, possui telhado em quatro águas e varandas em toda a extensão da fachada. Os alpendres, que davam acesso à entrada principal da casa e capela, foram fechados com portas e janelas de guilhotinas para se protegerem das fortes chuvas da região. O tombamento incluiu o crucifixo e a imagem de São Roque existentes na capela.",
+        "Número_Do_Processo": "22049/82",
+        "Resolução_De_Tombamento": "Resolução em ex-officio em 12 de maio de 1982",
+        "Livro_do_Tombo_Histórico": "Inscrição n°51, p.3"
+    },
+    {
+        "Patrimônio": "Fazenda Pirahy",
+        "Localização": "Estrada Velha Cabreúva, Km 18",
+        "Número_do_Processo": "68000/13",
+        "Resolução_de_Tombamento": "Resolução 107 de 07/11/18",
+        "Livro_do_Tombo_Histórico": "inscrição nº 491, p. 156."
+    },
+    {
+        "Patrimônio": "Fazenda Santa Gertrudes",
+        "Localização": "Rodovia SP-324, Itupeva",
+        "Número_do_Processo": "57119/08",
+        "Resolução_de_Tombamento": "Resolução 27 de 12/05/14",
+        "Livro_do_Tombo_Histórico": "inscrição nº 416, p. 124"
+    },
+    {
+        "Patrimônio": "Fazenda Santa Maria do Monjolinho",
+        "Localização": "Rodovia Estadual Luiz Augusto de Oliveira, Km 158 – São Carlos",
+        "Número_do_Processo": "54293/06",
+        "Resolução_de_Tombamento": "Resolução 64 de 21/06/2016"
+    },
+    {
+        "Patrimônio": "Fazenda São Bernardo",
+        "Localização": "Av. São Bernardo, Rafard",
+        "Número_do_Processo": "40724/00",
+        "Resolução_de_Tombamento": "Resolução 102 de 27/10/14",
+        "Livro_do_Tombo_Histórico": "inscrição nº 423, p. 126-127."
+    },
+    {
+        "Patrimônio": "Fortaleza de Itapema, Farol e Anexos",
+        "Localização": "Vicente de Carvalho",
+        "Número_do_Processo": "20139/76",
+        "Resolução_de_Tombamento": "Resolução 21 de 30/4/82",
+        "Livro_do_Tombo_Histórico": "inscrição nº 172, p. 40, 25/05/1982"
+    },
+    {
+        "Patrimônio": "Fortaleza de Santo Amaro da Barra Grande",
+        "Localização": "Extremo sul da Ilha de Santo Amaro",
+        "Número_do_Processo": "00346/73",
+        "Resolução_de_Tombamento": "IPHAN em 23/4/64, ex-officio em 05/05/1980",
+        "Livro_do_Tombo_Histórico": "inscrição nº 19, p. 2, 27/04/1971"
+    },
+    {
+        "Patrimônio": "Fortaleza de São Felipe",
+        "Localização": "Extremo norte da Ilha de Santo Amaro",
+        "Número_do_Processo": "00347/73",
+        "Resolução_de_Tombamento": "ex-officio em 5/5/80",
+        "Livro_do_Tombo_Histórico": "inscrição nº 87, p. 10, 23/09/1974"
+    },
+    {
+        "Patrimônio": "Forte São João",
+        "Localização": "Praia de Bertioga",
+        "Número_do_Processo": "00361/73",
+        "Resolução_de_Tombamento": "IPHAN em 19/2/40, ex-officio em 13/10/80",
+        "Livro_do_Tombo_Histórico": "Inscrição nº 138, p. 25, 29/5/1981"
+    },
+    {
+        "Patrimônio": "Fórum",
+        "Localização": "Praça Frei Baraúna, s/nº",
+        "Número_do_Processo": "72142/14",
+        "Resolução_de_Tombamento": "Resolução 28 de 27/03/18.",
+        "Livro_do_Tombo_Histórico": "inscrição nº 473, p.146."
+    },
+    {
+        "Patrimônio": "Fórum de Araraquara",
+        "Localização": "Praça Pedro de Toledo, s/nº",
+        "Número_do_Processo": "39298/99",
+        "Resolução_de_Tombamento": "Resolução SC-113 de 07/11/18.",
+        "Livro_do_Tombo_Histórico": "inscrição nº 490, p. 155."
+    },
+    {
+        "Patrimônio": "Fórum de Araras",
+        "Localização": "Praça Barão de Araras – Araras",
+        "Número_do_Processo": "00453/74",
+        "Resolução_de_Tombamento": "Resolução de 23/6/77",
+        "Livro_do_Tombo_Histórico": "inscrição nº 111, p. 16, 25/06/1979"
+    },
+    {
+        "Patrimônio": "Fórum de Avaré",
+        "Localização": "Praça Rui Barbosa – Avaré",
+        "Número_do_Processo": "11975/69",
+        "Resolução_de_Tombamento": "Resolução 48 de 6/12/80",
+        "Livro_do_Tombo_Histórico": "inscrição nº 143, p. 26, 29/05/1981"
+    },
+    {
+        "Patrimônio": "Fórum de Botucatu",
+        "Localização": "Praça Rui Barbosa, s/nº e Rua General Telles,  1040, Centro",
+        "Número_do_Processo": "72099/14",
+        "Resolução_de_Tombamento": "Resolução SC-108 de 07/11/18 e Resolução SC 02 de 07/01/20."
+    },
+    {
+        "Patrimônio": "Fórum de Promissão",
+        "Localização": "Av. Rio Grande, 730 – Promissão",
+        "Número_do_Processo": "68005/13",
+        "Resolução_de_Tombamento": "Resolução 89 de 30/06/2016",
+        "Livro_do_Tombo_Histórico": "inscrição nº 452, p.136."
+    }
+]

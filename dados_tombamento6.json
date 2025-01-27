@@ -1,0 +1,702 @@
+[
+    {
+        "Patrimônio": "Parque das Monções",
+        "Localização": "Av. Marginal e Ruas dos Bandeirantes, José Bonifácio e Antônio Mangato – Porto Feliz",
+        "Número_do_Processo": "15559/69",
+        "Resolução_de_Tombamento": "Resolução de 20/03/1972",
+        "Livro_do_Tombo_Histórico": "inscrição nº 59, 21/09/1972, p. 4"
+    },
+    {
+        "Patrimônio": "Parque do Ibirapuera",
+        "Localização": "Avenida Pedro Álvares Cabral – Parque Ibirapuera",
+        "Número_do_Processo": "25767/87",
+        "Resolução_de_Tombamento": "Resolução 1 de 25/01/1992",
+        "Livro_do_Tombo_Arqueológico,_Etnográfico_e_Paisagístico": "inscrição nº 24, p. 307, 21/02/1992"
+    },
+    {
+        "Patrimônio": "Parque do Povo",
+        "Localização": "Entre a Avenida Presidente Jucelino Kubitschek, Marginal Pinheiros, Avenida Cidade Jardim, Rua Brigadeiro Haroldo Veloso e Rua 3 – Chácara Itaim",
+        "Número_do_Processo": "SC 26513/88",
+        "Resolução_de_Tombamento": "Resolução SC 24 de 03/06/1995",
+        "Livro_do_Tombo_Arqueológico,_Etnográfico_e_Paisagístico": "inscrição nº 3, pp. 205 e 206, s.d"
+    },
+    {
+        "Patrimônio": "Parque Estadual do Jaraguá",
+        "Localização": "Parque Estadual do Jaraguá",
+        "Número_do_Processo": "20437/78",
+        "Resolução_de_Tombamento": "Resolução 5 de 04/02/1983",
+        "Livro_do_Tombo_Arqueológico,_Etnográfico_e_Paisagístico": "inscrição nº 10, p. 303, 01/09/1986"
+    },
+    {
+        "Patrimônio": "Parque Estadual Fontes do Ipiranga",
+        "Localização": "Av. Miguel Estéfano s/ nº",
+        "Número_do_Processo": "32468/95",
+        "Resolução_de_Tombamento": "Resolução 103 de 07/11/18.",
+        "Livro_do_Tombo_Histórico": "inscrição nº 489, p. 154 a 155."
+    },
+    {
+        "Patrimônio": "Parque Fernando Costa",
+        "Localização": "Entre as Ruas Ministro Godói, Turiassú, Germaine Buchard e Avenida Francisco Matarazzo – Água Branca",
+        "Número_do_Processo": "23339/85",
+        "Resolução_de_Tombamento": "Resolução 25 de 11/06/1996",
+        "Livro_do_Tombo_Histórico": "Inscrição nº 319, p. 80, 26/09/1996"
+    },
+    {
+        "Patrimônio": "Parque Residencial Sabóya",
+        "Localização": "Rua Vitorino Carmilo nros. 453 a 473, São Paulo",
+        "Número_do_Processo": "32225/94",
+        "Resolução_de_Tombamento": "Resolução 96, de 18/10/2012",
+        "Livro_do_Tombo_Histórico": "inscrição nº 430, p. 129."
+    },
+    {
+        "Patrimônio": "Parque Tenente Siqueira Campos – TRIANON",
+        "Localização": "Avenida Paulista",
+        "Número_do_Processo": "20749/78",
+        "Resolução_de_Tombamento": "Resolução 45, de 13/05/1982.",
+        "Livro_do_Tombo_Arqueológico,_Etnográfico_e_Paisagístico": "inscrição nº 8, p. 33, 13/08/1986",
+        "Área_Envoltória": "Resolução SC 104, de 01/11/2013; retificação na Resolução SC 131, de 26/12/2018."
+    },
+    {
+        "Patrimônio": "Passo da Via Sacra São Vicente de Paula",
+        "Localização": "Prudente de Moraes, 804 – Piracicaba",
+        "Número_do_Processo": "08639/69",
+        "Resolução_de_Tombamento": "Resolução de 11/04/1972",
+        "Livro_do_Tombo_Histórico": "inscrição nº 121, p. 20, 03/07/1979",
+        "Área_Envoltória": ""
+    },
+    {
+        "Patrimônio": "Pedreira de Varvitos",
+        "Localização": "Bairro Alto – Itu",
+        "Número_do_Processo": "09884/69",
+        "Resolução_de_Tombamento": "Resolução de 18/03/1974",
+        "Livro_do_Tombo_Arqueológico,_Etnográfico_e_Paisagístico": "inscrição nº 1, p. 4, 21/03/1974"
+    },
+    {
+        "Patrimônio": "Pinacoteca do Estado de São Paulo",
+        "Localização": "Avenida Tiradentes, 141 e 173 e Praça da Luz",
+        "Número_do_Processo": "00215/79",
+        "Resolução_de_Tombamento": "Resolução 24 de 05/05/1982",
+        "Livro_do_Tombo_Histórico": "inscrição nº 224, p. 62, 19/01/1987"
+    },
+    {
+        "Patrimônio": "Pinacoteca Municipal, Biblioteca Municipal Nelson Foot, GE Siqueira Moraes",
+        "Localização": "Rua Barão de Jundiaí, 121 – CEP 13200-000 – Jundiaí",
+        "Código_Sec._Est._Educ.": "05.84.101",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "Pólo do Circuito Gestão Santa Cruz do Rio Pardo – antiga Delegacia Reg de Ensino",
+        "Localização": "Rua Benjamin Constant, 261 – CEP 18900-000 – Santa Cruz do Rio Pardo",
+        "Código_Sec._Est._Educ.": "11.14.103",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "Ponte Campos Salles",
+        "Localização": "interliga os municípios de Barra Bonita e Igaraçu do Tietê.",
+        "Número_do_Processo": "38968/99",
+        "Resolução_de_Tombamento": "Resolução 114, de 18/12/15"
+    },
+    {
+        "Patrimônio": "Ponte Metálica",
+        "Localização": "São José do Rio Pardo",
+        "Número_do_Processo": "SC 20897/79",
+        "Resolução_de_Tombamento": "Resolução SC no 11 de 09/05/1986",
+        "Livro_do_Tombo_Histórico": "inscrição nº 252, p. 67, 23/01/1987"
+    },
+    {
+        "Patrimônio": "Ponte Pênsil",
+        "Localização": "Entre as Avenidas Presidente Getúlio Vargas e Engenheiro Saturnino de Brito.",
+        "Número_do_Processo": "21825/81",
+        "Resolução_de_Tombamento": "Resolução 20 de 30/04/82",
+        "Livro_do_Tombo_Histórico": "Inscrição nº 175, p. 41, 26/5/1982"
+    },
+    {
+        "Patrimônio": "Ponte Pênsil de Chavantes",
+        "Localização": "Estrada Municipal Chavantes-Ribeirão Claro sobre o Rio Paranapanema",
+        "Número_do_Processo": "24173/85",
+        "Resolução_de_Tombamento": "Resolução 65 de 02/12/1985",
+        "Livro_do_Tombo_Histórico": "inscrição nº 247, p. 66, 22/01/1987"
+    },
+    {
+        "Patrimônio": "Portal de Pedra do Antigo Presídio Tiradentes",
+        "Localização": "Avenida Tiradentes esquina com a Praça Coronel Fernando Prestes",
+        "Número_do_Processo": "23345/85",
+        "Resolução_de_Tombamento": "Resolução 59 de 25/10/1985",
+        "Livro_do_Tombo_Histórico": "inscrição nº 242, p. 65, 21/10/1987"
+    },
+    {
+        "Patrimônio": "Posto de Gasolina",
+        "Localização": "Av. Aclimação nº 11 – São Paulo",
+        "Número_do_Processo": "66552/12",
+        "Resolução_de_Tombamento": "Resolução 107, de 11/11/15",
+        "Livro_do_Tombo_Histórico": "inscrição nº 435, p. 130"
+    },
+    {
+        "Patrimônio": "Quadra Cultural do Itaim – Biblioteca Anne Frank e Teatro Décio de Almeida Prado",
+        "Localização": "Av. Horácio Lafer e Ruas Lopes Neto, Salvador Cardoso e Cojuba – São Paulo",
+        "Número_do_Processo": "64106/11",
+        "Resolução_de_Tombamento": "Resolução 106, de 11/11/15"
+    },
+    {
+        "Patrimônio": "Quarteirão Paulista e Praça XV de Novembro",
+        "Localização": "Rua XV de Novembro, 332, 354, 390 e 396 – Ribeirão Preto",
+        "Número_do_Processo": "29840/92",
+        "Resolução_de_Tombamento": "Resolução 26 de 15/12/1993",
+        "Livro_do_Tombo_Histórico": "inscrição nº 311, p. 78, 23/02/1994"
+    },
+    {
+        "Patrimônio": "Quartel da Luz",
+        "Localização": "Avenida Tiradentes, 440",
+        "Número_do_Processo": "15268/69",
+        "Resolução_de_Tombamento": "Resolução de 15/12/1972",
+        "Livro_do_Tombo_Histórico": "inscrição nº 68, p. 6, 19/10/1972"
+    },
+    {
+        "Patrimônio": "Quartel do Segundo Batalhão de Guardas",
+        "Localização": "Parque Dom Pedro II",
+        "Número_do_Processo": "21740/81",
+        "Resolução_de_Tombamento": "Resolução 33 de 28/08/1981",
+        "Livro_do_Tombo_Histórico": "inscrição nº 153, p. 27, 22/12/1981"
+    },
+    {
+        "Patrimônio": "Relógio Solar",
+        "Localização": "Praça Nossa Senhora da Conceição – Franca",
+        "Número_do_Processo": "08499/69",
+        "Resolução_de_Tombamento": "Resolução de 08/03/1972",
+        "Livro_do_Tombo_Histórico": "inscrição nº 266, p. 69, 25/03/1987"
+    },
+    {
+        "Patrimônio": "Remanescentes da Vila Colonial e Porto das Naus",
+        "Localização": "São Vicente",
+        "Número_do_Processo": "00373/73",
+        "Livro_do_Tombo_Histórico": "inscrição nº 162, p. 36."
+    },
+    {
+        "Patrimônio": "Reserva Estadual da Cantareira e Horto Florestal",
+        "Localização": "coordenadas UTM 7.415,00-7.405,00 kmS e 337,00 kmE",
+        "Número_do_Processo": "20536/78",
+        "Resolução_de_Tombamento": "Resolução 18 de 04/08/1983",
+        "Livro_do_Tombo_Arqueológico,_Etnográfico_e_Paisagístico": "inscrição nº 14, p. 304, 08/09/1986"
+    },
+    {
+        "Patrimônio": "Reserva Florestal da Fundação José Pedro de Oliveira antiga Fazenda Sta Genebra",
+        "Localização": "Distrito de Barão Geraldo – Campinas",
+        "Número_do_Processo": "22326/82",
+        "Resolução_de_Tombamento": "Resolução 3 de 03/02/1983.",
+        "Livro_do_Tombo_Arqueológico,_Etnográfico_e_Paisagístico": "inscrição nº 9, p. 303, 01/09/1986",
+        "Área_Envoltória": "Resolução SC 119 de 31/10/2016; retificação na Resolução SC 131 de 26/12/2018."
+    },
+    {
+        "Patrimônio": "Reserva Florestal do Morro Grande",
+        "Localização": "Bairro de Caucaia – Cotia",
+        "Número_do_Processo": "20519/78",
+        "Resolução_de_Tombamento": "Resolução 21 de 20/06/1981",
+        "Livro_do_Tombo_Arqueológico,_Etnográfico_e_Paisagístico": "inscrição nº 6, p. 303, 18/08/1986"
+    },
+    {
+        "Patrimônio": "Residência Castor Delgado Perez",
+        "Localização": "Avenida 9 de Julho nº 5162",
+        "Número_do_Processo": "33182/95",
+        "Resolução_de_Tombamento": "Resolução 14 de 08/04/2013",
+        "Livro_do_Tombo_Histórico": "inscrição nº 396, p. 115."
+    },
+    {
+        "Patrimônio": "Residência de Elias Pacheco Chaves",
+        "Localização": "Rua São Bento, 189 a 197",
+        "Número_do_Processo": "20023/76",
+        "Resolução_de_Tombamento": "Resolução 19 de 13/09/1983",
+        "Livro_do_Tombo_Histórico": "inscrição nº 211, p. 58, 17/10/1983"
+    },
+    {
+        "Patrimônio": "Residência de Marieta Teixeira de Carvalho",
+        "Localização": "Rua Florêncio de Abreu, 111",
+        "Número_do_Processo": "00535/75",
+        "Resolução_de_Tombamento": "Resolução 43 de 03/11/1980",
+        "Livro_do_Tombo_Arqueológico,_Etnográfico_e_Paisagístico": "inscrição nº 141, p. 26, 29/05/1981"
+    },
+    {
+        "Patrimônio": "Residência de Olívio Gomes e Parque Ajardinado",
+        "Localização": "Av. Sebastião Gualberto nº 545, São José dos Campos",
+        "Número_do_Processo": "37352/98",
+        "Resolução_de_Tombamento": "Resolução 97, de 23/10/2013",
+        "Livro_do_Tombo_Histórico": "inscrição nº 408, p. 121."
+    },
+    {
+        "Patrimônio": "Residência Dino Bueno",
+        "Localização": "Rua Guaianazes, 1238 e 1282",
+        "Número_do_Processo": "SC-23367/85",
+        "Resolução_de_Tombamento": "Resolução 15 de 16/3/88",
+        "Livro_do_Tombo_Histórico": "inscrição nº 277, p. 71, 18.07.1988"
+    },
+    {
+        "Patrimônio": "Residência do Arquiteto Felizberto Ranzini",
+        "Localização": "Rua Santa Luzia nº 31, São Paulo",
+        "Número_do_Processo": "66574/12",
+        "Resolução_de_Tombamento": "Resolução 81 de 23/07/2015",
+        "Livro_do_Tombo_Histórico": "inscrição nº 436, p.130."
+    },
+    {
+        "Patrimônio": "Residência Grassmann",
+        "Localização": "Rua Rodolfo Miranda, 203 – São Simão",
+        "Número_do_Processo": "02315/77",
+        "Resolução_de_Tombamento": "Resolução de 15/03/1978",
+        "Livro_do_Tombo_Histórico": "inscrição nº 125, p. 22, 04/07/1979"
+    },
+    {
+        "Patrimônio": "Residência Irmãos Gomes",
+        "Localização": "Rua: Severo Gomes, Lote 1 quadra A do loteamente Costa Esmeralda – Ubatuba",
+        "Número_do_Processo": "48737/03",
+        "Resolução_de_Tombamento": "Resolução 50 de 15/09/2005",
+        "Livro_do_Tombo_Histórico": "inscrição nº 352, p. 94 e 95, 04/04/2006"
+    },
+    {
+        "Patrimônio": "Residência José Mario Taques Bittencourt II",
+        "Localização": "Rua Votuporanga, 275, bairro Sumaré – São Paulo",
+        "Número_do_Processo": "68007/12",
+        "Resolução_de_Tombamento": "Resolução 127,  de 19/12/16",
+        "Livro_do_Tombo_Histórico": "inscrição nº 458, pg. 138"
+    },
+    {
+        "Patrimônio": "Residência Rio Branco Paranhos",
+        "Localização": "Rua Heitor de Moraes nº 120, São Paulo",
+        "Número_do_Processo": "66690/12",
+        "Resolução_de_Tombamento": "Resolução 80 de 23/07/2015"
+    },
+    {
+        "Patrimônio": "Residência situada na Rua Maranhão, nº 341",
+        "Localização": "Rua Maranhão, 341 – Higienópolis",
+        "Número_do_Processo": "39862/00",
+        "Resolução_de_Tombamento": "Resolução 45 de 05/06/2003",
+        "Livro_do_Tombo_Histórico": "inscrição nº 342, p. 88, 21/11/2003"
+    },
+    {
+        "Patrimônio": "Residências da Família Ramos de Azevedo",
+        "Localização": "Rua Pirapitingui, 111, 141 e 159",
+        "Número_do_Processo": "22365/82",
+        "Resolução_de_Tombamento": "Resolução 20 de 10/04/1985",
+        "Livro_do_Tombo_Histórico": "inscrição nº 237, pp. 64 e 65, 21/01/1987",
+        "Área_Envoltória": "Resolução SC-36 de 04/07/2017"
+    },
+    {
+        "Patrimônio": "Residências I e II do Arq. Vilanova Artigas",
+        "Localização": "Rua Barão de Jaceguai, 1151, esquina com a Rua João de Souza Dias – São Paulo",
+        "Número_do_Processo": "66689/12",
+        "Resolução_de_Tombamento": "Resolução 112 de 30/12/14",
+        "Livro_do_Tombo_Histórico": "inscrição nº 428, p.128."
+    },
+    {
+        "Patrimônio": "Rocha Moutonnée",
+        "Localização": "Estrada Vicinal SP 79 – Antiga Chácara Guaraciaba – Salto",
+        "Número_do_Processo": "00506/75",
+        "Resolução_de_Tombamento": "Resolução 45 de 18/12/1992",
+        "Livro_do_Tombo_Arqueológico,_Etnográfico_e_Paisagístico": "inscrição nº 25, p. 308, 24/06/1993"
+    },
+    {
+        "Patrimônio": "Rodoviária de Jahu",
+        "Localização": "Rua Humaitá",
+        "Número_do_Processo": "49925/04",
+        "Resolução_de_Tombamento": "Resolução 108, de 11/11/15",
+        "Livro_do_Tombo_Histórico": "inscrição nº 434, p. 130"
+    },
+    {
+        "Patrimônio": "Rotunda",
+        "Localização": "Avenida Rotary Clube, s/n – Cruzeiro",
+        "Número_do_Processo": "25566/87",
+        "Resolução_de_Tombamento": "Resoluções 47 de 2/9/88",
+        "Livro_do_Tombo_Histórico": "inscrição nº 282, p. 72, 08/06/1989"
+    },
+    {
+        "Patrimônio": "Ruínas do Abarebebê – Peruíbe",
+        "Localização": "Ruínas do Abarebebê – Peruíbe",
+        "Número_do_Processo": "09515/69",
+        "Resolução_de_Tombamento": "Resolução de 11/08/1979",
+        "Livro_do_Tombo_Histórico": "inscrição nº 130, p. 24, 29/05/1981"
+    },
+    {
+        "Patrimônio": "Ruínas do Engenho da Lagoinha",
+        "Localização": "Loteamento da Praia da Lagoinha (GlebaA)",
+        "Número_do_Processo": "00554/75",
+        "Resolução_de_Tombamento": "Resolução 69 de 16/12/85",
+        "Livro_do_Tombo_Histórico": "Inscrição nº 249, p. 66, 22/1/1987"
+    },
+    {
+        "Patrimônio": "Ruínas do Engenho do Rio Quilombo",
+        "Localização": "Vale do Quilombo – Santos",
+        "Número_do_Processo": "00382/73",
+        "Resolução_de_Tombamento": "Resolução de 18/03/1974",
+        "Livro_do_Tombo_Histórico": "inscrição nº 79, p. 8, 20/02/1974"
+    },
+    {
+        "Patrimônio": "Ruínas do Engenho dos Erasmos",
+        "Localização": "Morro do Marapé – Bairro da Candelária",
+        "Número_do_Processo": "00362/73",
+        "Resolução_de_Tombamento": "Ex-Officio em 11/12/1974",
+        "Livro_do_Tombo_Histórico": "inscrição nº 89, p. 10, 11/12/197"
+    },
+    {
+        "Patrimônio": "Sanatório Vicentina Aranha",
+        "Localização": "Avenida Presidente Prudente Meirelles de Moraes, 503 – São José dos Campos",
+        "Número_do_Processo": "23370/85",
+        "Resolução_de_Tombamento": "Resolução 44 de 25/07/2001",
+        "Livro_do_Tombo_Histórico": "inscrição nº 328, p. 83, 25/09/2001"
+    },
+    {
+        "Patrimônio": "Santa Casa de Misericórdia de São Paulo",
+        "Localização": "Situado entre as ruas Cesário Mota Júnior, Marquês de Itu, Dona Veridiana e Jaguaribe",
+        "Número_do_Processo": "23.046/84",
+        "Resolução_de_Tombamento": "Resolução SC-67, de 10/08/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 373"
+    },
+    {
+        "Patrimônio": "Sede da Antiga Fazenda Cacutá",
+        "Localização": "Rodovia Anhanguera – Km 82 – Valinhos",
+        "Número_do_Processo": "38716/99",
+        "Resolução_de_Tombamento": "Resolução 56 de 09/12/2004",
+        "Livro_do_Tombo_Histórico": "inscrição nº 349, p. 93, 22/09/2005"
+    },
+    {
+        "Patrimônio": "Sede da Fazenda Conceição",
+        "Localização": "Estrada para Roseira",
+        "Número_do_Processo": "22055/82",
+        "Resolução_de_Tombamento": "IPHAN em 22/11/74, ex-officio em 12/5/82",
+        "Livro_do_Tombo_Histórico": "Inscrição nº 222, p. 62, 19/1/1987"
+    },
+    {
+        "Patrimônio": "Sede da Fazenda da Sant’Ana",
+        "Localização": "Doutor Manoel Hypólito do Rego, 1579 – São Sebastião",
+        "Número_do_Processo": "00020/71",
+        "Resolução_de_Tombamento": "Resolução de 28/06/1972",
+        "Livro_do_Tombo_Histórico": "inscrição nº 64, p. 3, 22/09/1972"
+    },
+    {
+        "Patrimônio": "Sede da Fazenda do Pinhal",
+        "Localização": "Estrada da Broa – Km 4,5 (Estrada Descalvado à Ribeirão Bonito)",
+        "Número_do_Processo": "02172/79",
+        "Resolução_de_Tombamento": "Resolução 48 de 16/12/1981",
+        "Livro_do_Tombo_Histórico": "inscrição nº 156, pp. 28 à 34, 28/01/1982"
+    },
+    {
+        "Patrimônio": "Sede da Fazenda Dumont",
+        "Localização": "Praça Josefina Negri, 21",
+        "Número_do_Processo": "21240/80",
+        "Resolução_de_Tombamento": "Resolução 30 de 07/05/1982",
+        "Livro_do_Tombo_Histórico": "inscrição nº 171, p. 39, 25/05/1982"
+    },
+    {
+        "Patrimônio": "Sede da Fazenda Engenho D’Água",
+        "Localização": "Ilhabela",
+        "Número_do_Processo": "00348/73",
+        "Resolução_de_Tombamento": "Ex-Officio em 04/06/1979",
+        "Livro_do_Tombo_Histórico": "inscrição nº 120, p. 20, 03/07/1979"
+    },
+    {
+        "Patrimônio": "Sede da Fazenda Grão Mogol",
+        "Localização": "Ajapi – Comarca de Rio Claro",
+        "Número_do_Processo": "20145/76",
+        "Resolução_de_Tombamento": "Resolução 23 de 17/09/1984",
+        "Livro_do_Tombo_Histórico": "inscrição nº 232, p. 63, 20/01/1987"
+    },
+    {
+        "Patrimônio": "Sede da Fazenda Mato Dentro",
+        "Localização": "Estrada de Souzas – Campinas",
+        "Número_do_Processo": "00309/73",
+        "Resolução_de_Tombamento": "Resolução 34 de 10/05/1982",
+        "Livro_do_Tombo_Histórico": "inscrição nº 173, p. 40, 25/05/1982"
+    },
+    {
+        "Patrimônio": "Sede da Fazenda Morro Azul",
+        "Localização": "Iracemápolis",
+        "Número_do_Processo": "00320/73",
+        "Resolução_de_Tombamento": "Resolução de 08/01/1974",
+        "Livro_do_Tombo_Histórico": "inscrição nº 74, p. 7, 21/01/1974"
+    },
+    {
+        "Patrimônio": "Sede da Fazenda Pasto Grande",
+        "Localização": "Fazenda Pasto Grande – Taubaté",
+        "Número_do_Processo": "00445/74",
+        "Resolução_de_Tombamento": "Resolução 42 de 18/12/1992",
+        "Livro_do_Tombo_Histórico": "inscrição nº 304, p. 77, 05/05/1993"
+    },
+    {
+        "Patrimônio": "Sede da Fazenda Ponte Alta",
+        "Localização": "Fazenda Ponte Alta",
+        "Número_do_Processo": "22054/82",
+        "Resolução_de_Tombamento": "Ex-Officio em 12/05/1982",
+        "Livro_do_Tombo_Histórico": "inscrição nº 221, p. 62, 19/01/1987"
+    },
+    {
+        "Patrimônio": "Sede da Fazenda Resgate",
+        "Localização": "Estrada Nova para Barra Mansa – Km 324",
+        "Número_do_Processo": "22050/82",
+        "Resolução_de_Tombamento": "Resolução Ex-Officio de 12/05/82",
+        "Livro_do_Tombo_Histórico": "inscrição nº 50, p. 3, s.d."
+    },
+    {
+        "Patrimônio": "Sede da Fazenda Santa Eudóxia",
+        "Localização": "Distrito de Santa Eudóxia, município de São Carlos",
+        "Número_do_Processo": "21726/81",
+        "Resolução_de_Tombamento": "Resolução 61 de 04/11/85 e Resolução 12 de 09/03/11",
+        "Livro_do_Tombo_Histórico": "inscrição nº 243, p. 65."
+    },
+    {
+        "Patrimônio": "Sede da Fazenda Santa Sofia e Mirante",
+        "Localização": "Praça Santo Antônio, s/n – Presidente Venceslau",
+        "Número_do_Processo": "26912/89",
+        "Resolução_de_Tombamento": "Resolução 7 de 14/03/91",
+        "Livro_do_Tombo_Histórico": "inscrição nº 299, pp. 75 e 76, 06/04/1993"
+    },
+    {
+        "Patrimônio": "Sede da Fazenda Tenente Carrito",
+        "Localização": "Recinto “Acácio de Moraes Terra",
+        "Número_do_Processo": "21115/79",
+        "Resolução_de_Tombamento": "Resolução 33 de 10/05/1982 e Resolução 19 de 15/03/2016",
+        "Livro_do_Tombo_Histórico": "inscrição nº 267, p. 70, 25/03/1987"
+    },
+    {
+        "Patrimônio": "Sede da Fazenda Três Pedras",
+        "Localização": "Distrito de Joaquim Egídio – Campinas",
+        "Número_do_Processo": "20427/77",
+        "Resolução_de_Tombamento": "Resolução 7 de 19/03/1982",
+        "Livro_do_Tombo_Histórico": "inscrição nº 163, p. 37, 01/04/1982"
+    },
+    {
+        "Patrimônio": "Sede do Sítio da Ressaca",
+        "Localização": "Rua Nadra Raffoul Mokodsi, 3,Arsênio Tavolieri, S/3",
+        "Número_do_Processo": "00190/72",
+        "Resolução_de_Tombamento": "Resolução de 18/10/1972",
+        "Livro_do_Tombo_Histórico": "inscrição nº 67, p. 6, 19/10/1972"
+    },
+    {
+        "Patrimônio": "Sede do Sítio do Capão",
+        "Localização": "Avenida Regente Feijó, 1295",
+        "Número_do_Processo": "20701/78",
+        "Resolução_de_Tombamento": "Resolução 18 de 14/08/1984",
+        "Livro_do_Tombo_Histórico": "inscrição nº 230, p. 63, 20/01/1987"
+    },
+    {
+        "Patrimônio": "Sede do Sítio do Padre Inácio",
+        "Localização": "Estrada do Morro Grande",
+        "Número_do_Processo": "00338/73",
+        "Resolução_de_Tombamento": "Ex-Officio em 23/09/1974",
+        "Livro_do_Tombo_Histórico": "inscrição nº 86, p. 10, 23/09/1974"
+    },
+    {
+        "Patrimônio": "Sede do Sítio Itaim",
+        "Localização": "Rua Iguatemi, 9",
+        "Número_do_Processo": "20640/78",
+        "Resolução_de_Tombamento": "Resolução 46 de 13/05/1982",
+        "Livro_do_Tombo_Histórico": "inscrição nº 225, p. 62, 19/01/1987"
+    },
+    {
+        "Patrimônio": "Sede do Sítio Mandu",
+        "Localização": "Jardim Barro Branco",
+        "Número_do_Processo": "00337/73",
+        "Resolução_de_Tombamento": "Ex-Officio em 24/07/1974",
+        "Livro_do_Tombo_Histórico": "inscrição nº 82, p. 9, 24/07/1974"
+    },
+    {
+        "Patrimônio": "Sede do Sítio Mirim",
+        "Localização": "Rua Dr. Assis Ribeiro, s/n – São Miguel Paulista",
+        "Número_do_Processo": "22053/82",
+        "Resolução_de_Tombamento": "Ex-Officio em 12/05/1982",
+        "Livro_do_Tombo_Histórico": "inscrição nº 219, p. 62, 19/01/1987"
+    },
+    {
+        "Patrimônio": "Sede do Sítio Morrinhos",
+        "Localização": "Rua Santo Anselmo, 102",
+        "Número_do_Processo": "00366/73",
+        "Resolução_de_Tombamento": "Ex-Offício em 26/12/1974",
+        "Livro_do_Tombo_Arqueológico,_Etnográfico_e_Paisagístico": "inscrição nº 105, p. 15, 06/05/1975"
+    },
+    {
+        "Patrimônio": "Sede do Sítio Santo Antônio",
+        "Localização": "Estrada da Mata da Câmara, São Roque",
+        "Número_do_Processo": "00374/73",
+        "Livro_do_Tombo_Histórico": "inscrição nº 99, p. 13."
+    },
+    {
+        "Patrimônio": "Seminário Missionário Bom Jesus",
+        "Localização": "Rua Barão do Rio Branco nº 412",
+        "Número_do_Processo": "28397/91",
+        "Resolução_de_Tombamento": "Resolução 35 de 26/04/18.",
+        "Livro_do_Tombo_Histórico": "inscrição nº 481, p. 151."
+    },
+    {
+        "Patrimônio": "Serra de Atibaia ou de Itapetinga",
+        "Localização": "Atibaia e Bom Jesus dos Perdões",
+        "Número_do_Processo": "22366/82",
+        "Resolução_de_Tombamento": "Resolução Secretaria da Cultura 14 de 06/07/83",
+        "Livro_do_Tombo_Arqueológico,_Etnográfico_e_Paisagístico": "inscrição nº 12, p. 304, 01/09/1986"
+    },
+    {
+        "Patrimônio": "Serra do Boturuna",
+        "Localização": "Altura do km 30 da Estrada dos Romeiros – Pirapora do Bom Jesus",
+        "Número_do_Processo": "22328/82",
+        "Livro_do_Tombo_Histórico": "inscrição nº 13, p. 304, 08/09/1986"
+    },
+    {
+        "Patrimônio": "Serra do Guararu e Vila da Prainha Branca",
+        "Localização": "Guarujá",
+        "Número_do_Processo": "26632/88",
+        "Resolução_de_Tombamento": "Resolução 48 de 18/12/1992",
+        "Livro_do_Tombo_Arqueológico,_Etnográfico_e_Paisagístico": "inscrição nº 26, pgs. 307 e 308, 24/6/1993"
+    },
+    {
+        "Patrimônio": "Serra do Itaqui",
+        "Localização": "Áreas situadas nos municípios de Santana de Parnaíba, Barueri e Itapevi",
+        "Número_do_Processo": "39.971/00",
+        "Resolução_de_Tombamento": "Resolução SC-126, de 19/12/2016",
+        "Livro_do_Tombo_Paisagístico": "Inscrição nº 30, p. 311"
+    },
+    {
+        "Patrimônio": "Serra do Japi, Guaxinduva e Jaguacoara",
+        "Localização": "Cabreúva, Jundiaí e Pirapora do Bom Jesus",
+        "Número_do_Processo": "20814/79",
+        "Resolução_de_Tombamento": "Resolução 11 de 08/03/1983",
+        "Livro_do_Tombo_Histórico": "inscrição nº 11, p. 304, 01/09/1986"
+    },
+    {
+        "Patrimônio": "Serra do Mar e de Paranapiacaba",
+        "Localização": "Estados do Rio de Janeiro e do Paraná",
+        "Número_do_Processo": "20868/79",
+        "Resolução_de_Tombamento": "Resolução 40 de 06/06/1985",
+        "Livro_do_Tombo_Arqueológico,_Etnográfico_e_Paisagístico": "inscrição nº 16, p. 305, 08/09/1986"
+    },
+    {
+        "Patrimônio": "Sino Que Anunciou a Independência do Brasil",
+        "Localização": "Largo Padre Péricles – bairro: Perdizes",
+        "Número_do_Processo": "00151/72",
+        "Resolução_de_Tombamento": "Resolução de 31/05/1972",
+        "Livro_do_Tombo_Histórico": "inscrição nº 60, p. 4, 21/09/1972"
+    },
+    {
+        "Patrimônio": "Sistema Viário, Área Verde e Cj Arquitetônico da Antiga Fazenda Monte Alegre",
+        "Localização": "Cuiabá, 370 – Ribeirão Preto",
+        "Número_do_Processo": "24699/86",
+        "Resolução_de_Tombamento": "Resolução 7 de 22/03/1994",
+        "Livro_do_Tombo_Histórico": "inscrição nº 314, p. 79, 01/06/1994"
+    },
+    {
+        "Patrimônio": "Sítio Santa Luzia",
+        "Localização": "Rua Sóror Angélica, 364 – bairro: Santana",
+        "Número_do_Processo": "21185/80",
+        "Resolução_de_Tombamento": "Resolução 43 de 12/05/1982",
+        "Livro_do_Tombo_Histórico": "inscrição nº 195, p. 47, 19/07/1982"
+    },
+    {
+        "Patrimônio": "Sobrado à Rua Dr. Salles de Oliveira",
+        "Localização": "Rua Dr. Salles de Oliveira nº 429-433, Campinas",
+        "Número_do_Processo": "26008/88",
+        "Resolução_de_Tombamento": "Resolução 82 de 23/07/2015"
+    },
+    {
+        "Patrimônio": "Sobrado Coronel Esmédio",
+        "Localização": "Praça Coronel Esmédio, 82 – Porto Feliz",
+        "Número_do_Processo": "07859/69",
+        "Resolução_de_Tombamento": "Resolução 35 de 11/05/1982",
+        "Livro_do_Tombo_Histórico": "inscrição nº 182, p. 43, 15/06/1982"
+    },
+    {
+        "Patrimônio": "Sobrado do Anhanguera",
+        "Localização": "Praça da Matriz, 19 e 25, esquina com a Rua André Fernandes – Santana de Parnaíba",
+        "Número_do_Processo": "00355/73",
+        "Resolução_de_Tombamento": "Ex-Officio em 11/03/1981 e Resolução 49, de 13/05/82",
+        "Livro_do_Tombo_Histórico": "inscrição nº 199, p. 49, 16/08/1982"
+    },
+    {
+        "Patrimônio": "Sobrado do Barão de Dourados",
+        "Localização": "Avenida Dois, 572",
+        "Número_do_Processo": "00353/73",
+        "Resolução_de_Tombamento": "Ex-Officio em 26/12/1974",
+        "Livro_do_Tombo_Histórico": "inscrição nº 103, p. 14, 06/05/1975"
+    },
+    {
+        "Patrimônio": "Sobrado do Capitão Silveira",
+        "Localização": "Rua João Antunes Macedo, 692 – Silveiras",
+        "Número_do_Processo": "0224/77",
+        "Resolução_de_Tombamento": "Resolução 40 de 11/05/1982",
+        "Livro_do_Tombo_Histórico": "inscrição nº 192, p. 46, 12/07/1982"
+    },
+    {
+        "Patrimônio": "Sobrado do Conde Moreira Lima",
+        "Localização": "Viscondessa de Castro e Lima, 22 – Lorena",
+        "Número_do_Processo": "00526/75",
+        "Resolução_de_Tombamento": "Resolução de 10/10/1975",
+        "Livro_do_Tombo_Histórico": "inscrição nº 108, p. 15, 11/10/1975"
+    },
+    {
+        "Patrimônio": "Sobrado do Porto",
+        "Localização": "Praça Anchieta",
+        "Número_do_Processo": "00369/73",
+        "Resolução_de_Tombamento": "IPHAN em 03/03/59, ex-officio em 11/10/75",
+        "Livro_do_Tombo_Histórico": "Inscrição nº 109, p. 15, 11/10/1975."
+    },
+    {
+        "Patrimônio": "Sobrado Júlia Ferraz",
+        "Localização": "Rua José Lucas, 11, esquina com a Praça Claudino Alves – Atibaia",
+        "Número_do_Processo": "19554/70",
+        "Resolução_de_Tombamento": "Resolução de 07/02/1975",
+        "Livro_do_Tombo_Histórico": "inscrição nº 92, p. 11, 17/02/1975"
+    },
+    {
+        "Patrimônio": "Sobrado na Praça da Bandeira",
+        "Localização": "Praça da Bandeira, 55 – Amparo",
+        "Número_do_Processo": "24326/85",
+        "Resolução_de_Tombamento": "Resolução Secretaria da Cultura 62 de 28/10/88",
+        "Livro_do_Tombo_Histórico": "inscrição nº 286, p. 73, 08/06/1989"
+    },
+    {
+        "Patrimônio": "Sobrado na Praça Oswaldo Cruz",
+        "Localização": "Praça Oswaldo Cruz, 3 – São Luiz do Paraitinga",
+        "Número_do_Processo": "21603/81",
+        "Resolução_de_Tombamento": "Resolução 30 de 05/08/1981",
+        "Livro_do_Tombo_Histórico": "inscrição nº 104, p. 14, 06/05/1975"
+    },
+    {
+        "Patrimônio": "Sobrado na Rua Nove de Julho, nº 136 (antiga Rua das Mercês, 6)",
+        "Localização": "Rua das Mercês, 6 – Areias",
+        "Número_do_Processo": "21700/81",
+        "Resolução_de_Tombamento": "Resolução 37 de 11/05/1982",
+        "Livro_do_Tombo_Histórico": "inscrição nº 178, p. 41, 08/06/1982"
+    },
+    {
+        "Patrimônio": "Sobrado na Rua Quinze de Novembro (antiga João Pessoa, 8)",
+        "Localização": "Rua Quinze de Novembro, 15 – Areias",
+        "Número_do_Processo": "21701/81",
+        "Resolução_de_Tombamento": "Resolução 36 de 11/05/1982",
+        "Livro_do_Tombo_Histórico": "inscrição nº 178, p. 41, 08/06/1982"
+    },
+    {
+        "Patrimônio": "Sobrado na Rua Sete de Setembro",
+        "Localização": "Rua Sete de Setembro, 183 – Serra Negra",
+        "Número_do_Processo": "28656/91",
+        "Resolução_de_Tombamento": "Resolução 7 de 01/07/1993",
+        "Livro_do_Tombo_Histórico": "inscrição nº 309, p. 78, 27/07/1993"
+    },
+    {
+        "Patrimônio": "Sobrado Vallim",
+        "Localização": "Praça Rubião Júnior – Bananal",
+        "Número_do_Processo": "17261/70",
+        "Resolução_de_Tombamento": "Resolução de 21/07/1972",
+        "Livro_do_Tombo_Histórico": "inscrição nº 65, p. 5, 22/09/1972"
+    },
+    {
+        "Patrimônio": "Sociedade Harmonia de Tênis",
+        "Localização": "Rua Canadá, 658 – Jardim Europa",
+        "Número_do_Processo": "21901/81",
+        "Resolução_de_Tombamento": "Resolução 34 de 11/11/1992",
+        "Livro_do_Tombo_Histórico": "inscrição nº 300, p. 76, 06/04/1993"
+    },
+    {
+        "Patrimônio": "Solar Alves Lanhoso",
+        "Localização": "Florêncio Pupo, 306 – Itatiba",
+        "Número_do_Processo": "24520/86",
+        "Resolução_de_Tombamento": "Resolução 22 de 03/07/1987",
+        "Livro_do_Tombo_Histórico": "inscrição nº 275, p. 71, 18/07/1988",
+        "Área_Envoltória": "Resolução SC-20 de 05/05/2021"
+    }
+]

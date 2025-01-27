@@ -1,0 +1,682 @@
+[
+    {
+        "Patrimônio": "Casarão Sabbado D’Angelo",
+        "Localização": "Rua Sabbado D’Angelo nº 657",
+        "Número_do_Processo": "66563/12",
+        "Resolução_de_Tombamento": "Resolução 106 de 07/11/18",
+        "Livro_do_Tombo_Histórico": "inscrição nº 484, p. 152."
+    },
+    {
+        "Patrimônio": "Casarão do Chá",
+        "Localização": "Km 03 da Estrada Secundária à Direita da Rodovia Mogi -Salesópolis, Km 10 – Mogi das Cruzes",
+        "Número_do_Processo": "22067/82",
+        "Resolução_de_Tombamento": "Resolução 64 de 25/11/82",
+        "Livro_do_Tombo_Histórico": "inscrição nº 204, p. 55, 06/12/1982"
+    },
+    {
+        "Patrimônio": "Casarão do José Ignácio",
+        "Localização": "Rua Cel. José Ignácio, nº 73/83",
+        "Número_do_Processo": "77396/16",
+        "Resolução_de_Tombamento": "Resolução SC-59, de 19/12/2017.",
+        "Livro_do_Tombo_Histórico": "inscrição nº 468, p. 143."
+    },
+    {
+        "Patrimônio": "Casarão do Valongo",
+        "Localização": "Largo Marquês de Monte Alegre, s/n",
+        "Número_do_Processo": "00429/74",
+        "Resolução_de_Tombamento": "Resolução 4 de 03/02/1983",
+        "Livro_do_Tombo_Histórico": "inscrição nº 209, p. 57, 09/02/1983"
+    },
+    {
+        "Patrimônio": "Casarão e Mata Remanescente da Vila Fortunata",
+        "Localização": "Avenida Paulista, 1919",
+        "Número_do_Processo": "22121/82",
+        "Resolução_de_Tombamento": "Resolução 36 de 16/11/1992",
+        "Livro_do_Tombo_Histórico": "inscrição nº 209, p. 57, 09/02/1983"
+    },
+    {
+        "Patrimônio": "Casarões da Alameda Cleveland e Residência Vizinha",
+        "Localização": "Alameda Cleveland, 601 e 617",
+        "Número_do_Processo": "41802/01",
+        "Resolução_de_Tombamento": "Resolução 46 de 18/01/2002",
+        "Livro_do_Tombo_Histórico": "lInscrição nº 333, p. 84, 08/02/2002"
+    },
+    {
+        "Patrimônio": "Casas de Aluguel",
+        "Localização": "Rua Bento Freitas, 76, 86 e 88 – Vila Buarque",
+        "Número_do_Processo": "25915/88",
+        "Resolução_de_Tombamento": "Resolução 25 de 15/12/1993",
+        "Livro_do_Tombo_Histórico": "inscrição nº 310, p. 78, 23/2/1994"
+    },
+    {
+        "Patrimônio": "Casas Modernistas do Bairro Pacaembu",
+        "Localização": "Rua Bahia, 1126 e Rua Itápolis, 961",
+        "Número_do_Processo": "29826/92",
+        "Resolução_de_Tombamento": "Ex-Offício em 31/01/1994",
+        "Livro_do_Tombo_Histórico": "inscrição nº 272, p. 70, 25/3/1987"
+    },
+    {
+        "Patrimônio": "Castelinho da Brigadeiro",
+        "Localização": "Avenida Brigadeiro Luís Antônio, 826 – Bela Vista",
+        "Número_do_Processo": "00250/73",
+        "Resolução_de_Tombamento": "Resolução 12 de 19/07/84",
+        "Livro_do_Tombo_Histórico": "inscrição nº 227, p. 63, 20/1/1987"
+    },
+    {
+        "Patrimônio": "Castelinho de Pirituba",
+        "Localização": "Rua Maestro de Arturo Angelis, 190 – São Paulo",
+        "Número_do_Processo": "39299/99",
+        "Resolução_de_Tombamento": "Resolução 104 de 27/10/14",
+        "Livro_do_Tombo_Histórico": "inscrição nº 425, p. 127"
+    },
+    {
+        "Patrimônio": "Catedral de Santo Antônio, altares e respectivas imagens",
+        "Localização": "Praça Santo Antônio, 40 – Guaratinguetá",
+        "Número_do_Processo": "38970/99",
+        "Resolução_de_Tombamento": "Resolução 88 de 30/06/2016",
+        "Livro_do_Tombo_Histórico": "inscrição nº 456, p.137."
+    },
+    {
+        "Patrimônio": "Catedral de São Sebastião",
+        "Localização": "Praça das Bandeiras, Ribeirão Preto",
+        "Número_do_Processo": "59031/05",
+        "Resolução_de_Tombamento": "Resolução 53 de 26/06/14",
+        "Livro_do_Tombo_Histórico": "inscrição nº 417, p. 124-125"
+    },
+    {
+        "Patrimônio": "Catedral Metropolitana",
+        "Localização": "Rua Regente Feijó, 1013 – Campinas",
+        "Número_do_Processo": "20217/77",
+        "Resolução_de_Tombamento": "Resolução 20 de 30/05/1981",
+        "Livro_do_Tombo_Histórico": "inscrição nº 148, p. 27, 22/12/1981"
+    },
+    {
+        "Patrimônio": "Catedral Metropolitana da Sé e Praça da Sé",
+        "Localização": "Praça da Sé – Centro",
+        "Número_do_Processo": "38971/99",
+        "Resolução_de_Tombamento": "Resolução SC-061, de 19/12/2017",
+        "Livro_do_Tombo_Histórico": "inscrição nº 169, p. 144/145."
+    },
+    {
+        "Patrimônio": "Catedral Metropolitana de São João da Boa Vista",
+        "Localização": "Praça da Catedral s/nº , São João da Boa Vista",
+        "Número_do_Processo": "27602/90",
+        "Resolução_de_Tombamento": "Resolução 115, de 18/12/15"
+    },
+    {
+        "Patrimônio": "Catorze Quadros da Via Sacra de Cãndido Portinari",
+        "Localização": "Igreja Matriz do Senhor do Bom Jesus da Cana Verde",
+        "Número_do_Processo": "22056/82",
+        "Resolução_de_Tombamento": "Resolução Ex-Officio em 12/05/82",
+        "Livro_do_Tombo_das_Artes": "inscrição nº 132, p. 13, 27/03/1987"
+    },
+    {
+        "Patrimônio": "Cemitério da Colônia Japonesa",
+        "Localização": "Bairro do Brejão – Álvares Machado",
+        "Número_do_Processo": "21028/79",
+        "Resolução_de_Tombamento": "Resolução 23 de 11/07/1980",
+        "Livro_do_Tombo_Histórico": "inscrição nº 133, p. 25, 29/05/1981"
+    },
+    {
+        "Patrimônio": "Cemitério da Consolação, dos Protestantes e da Ordem Terceira do Carmo",
+        "Localização": "Entre as ruas Consolação, Coronel José Eusébio, Mato Grosso e Sergipe – Consolação",
+        "Número_do_Processo": "16264/70",
+        "Resolução_de_Tombamento": "Resolução SC 81, de 30/07/2014",
+        "Livro_do_Tombo_Histórico": "inscrição nº 350, p. 94, 23/09/200"
+    },
+    {
+        "Patrimônio": "Cemitério dos Escravos",
+        "Localização": "Rua Nove de Julho – São José do Barreiro",
+        "Número_do_Processo": "00496/74",
+        "Resolução_de_Tombamento": "Resolução 20 de 14/07/89",
+        "Livro_do_Tombo_Histórico": "inscrição nº 289, p. 74, 06/07/1990"
+    },
+    {
+        "Patrimônio": "Centro de Convivência e Cultura de Campinas",
+        "Localização": "Praça Imprensa Fluminense s/ nº – Cambuí",
+        "Número_do_Processo": "51547/05",
+        "Resolução_de_Tombamento": "Resolução 67 de 19/12/2017.",
+        "Livro_do_Tombo_Histórico": "inscrição nº 476, p. 148."
+    },
+    {
+        "Patrimônio": "Centro Histórico de Bananal",
+        "Localização": "Centro",
+        "Número_do_Processo": "17256/70",
+        "Resolução_de_Tombamento": "Resolução 03 de 15/02/1991",
+        "Livro_do_Tombo_Histórico": "inscrição nº 298, p. 77, 17/04/1991"
+    },
+    {
+        "Patrimônio": "Centro Histórico de Cananéia",
+        "Localização": "Centro da cidade",
+        "Número_do_Processo": "09170/69",
+        "Resoluções_de_Tombamento": "Resolução de 11-12-1969 e Resolução SC – 71, de 19/12/2017",
+        "Livro_do_Tombo_Histórico": "inscrição nº 5, p. 2, 27/4/1971"
+    },
+    {
+        "Patrimônio": "Centro Histórico de Iguape",
+        "Localização": "Centro",
+        "Número_do_Processo": "00469/74",
+        "Resolução_de_Tombamento": "Resolução SC de 06/02/1975",
+        "Livro_do_Tombo_Histórico": "inscrição nº 93, p. 11, 17/02/1975"
+    },
+    {
+        "Patrimônio": "Centro Histórico de Iporanga",
+        "Localização": "Centro",
+        "Número_do_Processo": "00057/71",
+        "Resolução_de_Tombamento": "Resolução 18 de 20/06/1980",
+        "Livro_do_Tombo_Histórico": "inscrição nº 132, p. 24, 29/05/1981"
+    },
+    {
+        "Patrimônio": "Centro Histórico de Itu",
+        "Localização": "Centro",
+        "Número_do_Processo": "26907/89",
+        "Resolução_de_Tombamento": "Resolução 85 de 06/11/2003",
+        "Livro_do_Tombo_Histórico": "inscrição nº 343, pp. 89 à 91, 13/09/2004"
+    },
+    {
+        "Patrimônio": "Centro Histórico de Santana de Parnaíba",
+        "Localização": "Centro",
+        "Número_do_Processo": "21946/82",
+        "Resolução_de_Tombamento": "Resolução 49 de 13/05/1982",
+        "Livro_do_Tombo_Histórico": "inscrição nº 199, p. 49, 16/08/1982"
+    },
+    {
+        "Patrimônio": "Centro Histórico de São Luís do Paraitinga",
+        "Localização": "Centro",
+        "Número_do_Processo": "22066/82",
+        "Resoluções_de_Tombamento": "Resolução 55 de 13/05/1982 e Resolução SC-3  de 23/02/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 200, p. 51, 18/08/1982"
+    },
+    {
+        "Patrimônio": "Centro Histórico de São Sebastião",
+        "Localização": "Centro",
+        "Número_do_Processo": "14150/69",
+        "Resolução_de_Tombamento": "Resolução de 12/12/1969",
+        "Livro_do_Tombo_Histórico": "inscrição nº 2, p. 2, 27/04/1971"
+    },
+    {
+        "Patrimônio": "Cervejaria Paulista",
+        "Localização": "Quadra localizada na Av. Jerônimo Gonçalves, Rua Maria Junqueira, Rua José Bonifácio e Rua Visconde de Rio Branco",
+        "Número_do_Processo": "39.684/00",
+        "Resolução_de_Tombamento": "Res. SC-52, de 01.10.2007",
+        "Livro_do_Tombo_Histórico": "inscrição nº 355, p. 96, 20/12/2007"
+    },
+    {
+        "Patrimônio": "Chácara do Visconde",
+        "Localização": "Avenida Monteiro Lobato",
+        "Número_do_Processo": "00370/73",
+        "Livro_do_Tombo_Histórico": "inscrição nº 136, p. 25."
+    },
+    {
+        "Patrimônio": "Chácara Tangará",
+        "Localização": "Av. Marginal do Rio Pinheiros – bairro: Morumbi",
+        "Número_do_Processo": "27096/89",
+        "Resolução_de_Tombamento": "Resolução 10 de 06/04/1994",
+        "Livro_do_Tombo_Arqueológico,_Etnográfico_e_Paisagístico": "inscrição nº 28, p. 309, 23/05/1994"
+    },
+    {
+        "Patrimônio": "Cine Belas Artes",
+        "Localização": "Rua da Consolação nº 2423",
+        "Número_do_Processo": "65359/11",
+        "Resolução_de_Tombamento": "Resolução 105, de 11/11/15"
+    },
+    {
+        "Patrimônio": "Cine Teatro Polytheama",
+        "Localização": "Rua Barão de Jundiaí nº 178 – Jundiaí",
+        "Número_do_Processo": "41522/01",
+        "Resolução_de_Tombamento": "Resolução 38 de 16/07/2012",
+        "Livro_do_Tombo_Histórico": "inscrição nº 384, p. 111, 11/10/2012"
+    },
+    {
+        "Patrimônio": "Círculo Esotérico da Comunhão do Pensamento",
+        "Localização": "Rua Rodrigo Silva, 85",
+        "Número_do_Processo": "24.756/86",
+        "Resolução_de_Tombamento": "Resolução SC-19, de 25.03.2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 371, pg. 102."
+    },
+    {
+        "Patrimônio": "CMEF Profª Jacyra Landim Stori",
+        "Localização": "Rua Benjamim Constant, 631 – CEP 18300-000 – Capão Bonito",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011",
+        "Código_Sec._Est._Educ.": "04.37.101"
+    },
+    {
+        "Patrimônio": "Coleção Artística do Museu Paulista",
+        "Localização": "Avenida D. Pedro I – Ipiranga",
+        "Número_do_Processo": "00342/73",
+        "Resolução_de_Tombamento": "Ex-officio",
+        "Livro_do_Tombo_Histórico": "inscrição nº 130, p. 5, s.d."
+    },
+    {
+        "Patrimônio": "Coleção de Veículos e Acessórios do Museu Paulista de Antiguidades Mecânicas",
+        "Localização": "Fazenda Esperança – Caçapava",
+        "Número_do_Processo": "00002/71",
+        "Resolução_de_Tombamento": "Resolução 50 de 13/05/1982",
+        "Livro_do_Tombo_Histórico": "inscrição nº 201, p. 52, 24/08/1982"
+    },
+    {
+        "Patrimônio": "Coleção Mário de Andrade do IEBUSP",
+        "Localização": "Av. Prof. Mello Morais",
+        "Número_do_Processo": "58.693/08",
+        "Resolução_de_Tombamento": "ex-officio em 27.04.2009"
+    },
+    {
+        "Patrimônio": "Colégio Culto à Ciência",
+        "Localização": "Rua Culto à Ciência, 422 – Campinas",
+        "Número_do_Processo": "22804/83",
+        "Resolução_de_Tombamento": "Resolução 48 de 05/09/1988",
+        "Livro_do_Tombo_Histórico": "inscrição nº 283, p. 73, 08/06/1989"
+    },
+    {
+        "Patrimônio": "Colégio Dante Alighieri – Edifícios Leonardo Da Vinci e Colméia, incluindo pátio",
+        "Localização": "Alameda Jaú, 1061",
+        "Número_do_Processo": "68008/13",
+        "Resolução_de_Tombamento": "Resolução SC-062, de 19/12/2017",
+        "Livro_do_Tombo_Histórico": "inscrição nº 467, p. 143."
+    },
+    {
+        "Patrimônio": "Colégio Sion",
+        "Localização": "Avenida Higienópolis, 901",
+        "Número_do_Processo": "24618/86",
+        "Resolução_de_Tombamento": "Resolução 48 de 10/11/1986",
+        "Livro_do_Tombo_Histórico": "Inscrição nº 258, p. 68, 23/01/1987"
+    },
+    {
+        "Patrimônio": "Colégio Técnico da Unicamp",
+        "Localização": "Rua Culto à Ciência, 177",
+        "Número_do_Processo": "22805/83",
+        "Resolução_de_Tombamento": "Resolução 30 de 29/10/1984",
+        "Livro_do_Tombo_Histórico": "inscrição nº 259, p. 68, 23/01/1987"
+    },
+    {
+        "Patrimônio": "Colégio Visconde de Porto Seguro",
+        "Localização": "Rua João Guimarães Rosa, 111",
+        "Número_do_Processo": "20063/76",
+        "Resolução_de_Tombamento": "Resolução 03 de 08/05/1979 e Resolução 15 de 27/05/1980",
+        "Livro_do_Tombo_Histórico": "inscrição nº 126, p. 23, 10/07/1979",
+        "Área_Envoltória": "Resolução SC nº 015, de 24/02/2022"
+    },
+    {
+        "Patrimônio": "Companhia Taubaté Industrial",
+        "Localização": "Praça Felix Guisard",
+        "Número_do_Processo": "30006/92",
+        "Resolução_de_Tombamento": "Resolução 69 de 19/12/17.",
+        "Livro_do_Tombo_Histórico": "inscrição nº 471, p. 145 a 146."
+    },
+    {
+        "Patrimônio": "Complexo da Estação Ferroviária de Botucatu",
+        "Localização": "Largo José Paoloni s/ nº",
+        "Número_do_Processo": "59930/09",
+        "Resolução_de_Tombamento": "Resolução SC 91 de 11/10/2012; retificação na Resolução SC 103, de 26/12/2018."
+    },
+    {
+        "Patrimônio": "Complexo da Estação Ferroviária de Cruzeiro",
+        "Localização": "Av. Engenheiro Antônio Nogueira Penido, Cruzeiro",
+        "Número_do_Processo": "61981/10",
+        "Resolução_de_Tombamento": "Resolução 116, de 18/12/15"
+    },
+    {
+        "Patrimônio": "Complexo da Estação Ferroviária de Jundiaí",
+        "Localização": "Av. União dos Ferroviários, s/ nº",
+        "Número_do_Processo": "60142/09",
+        "Resolução_de_Tombamento": "Resolução 53 de 13/06/2011",
+        "Livro_do_Tombo_Histórico": "inscrição nº 380, p. 110"
+    },
+    {
+        "Patrimônio": "Complexo do gasômetro e casa das retortas",
+        "Localização": "Rua da Figueira e Rua Maria Domitila",
+        "Número_do_Processo": "46.662/03",
+        "Resolução_de_Tombamento": "Resolução SC-20, de 26.03.2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 372, pg. 102."
+    },
+    {
+        "Patrimônio": "Complexo Ferroviário de Bauru",
+        "Localização": "Praça Machado de Mello",
+        "Número_do_Processo": "30367/92",
+        "Resolução_de_Tombamento": "Resolução 22 de 22/03/18"
+    },
+    {
+        "Patrimônio": "Complexo Ferroviário de Louveira",
+        "Localização": "Avenida 21 de Março (também conhecida como Estrada das Rainhas), Av. Tiradentes, Rua José do Patrocínio, Rua Hermes da Fonseca, Rua Armando Steck (ou Rodovia Vereador Geraldo Dias (SP-332), Rua Antonio Niero (antiga Rua 1) e Av. José Niero s/ nº – Louveira",
+        "Número_do_Processo": "61063/10",
+        "Resolução_de_Tombamento": "Resolução 41 de 16/07/2012",
+        "Livro_do_Tombo_Histórico": "inscrição nº 391, p. 113, 17/10/2012"
+    },
+    {
+        "Patrimônio": "Complexo Ferroviário de Ourinhos",
+        "Localização": "Av. Dr. Antonio Prado",
+        "Número_do_Processo": "64201/11",
+        "Resolução_de_Tombamento": "Resolução 26 de 27/03/18."
+    },
+    {
+        "Patrimônio": "Complexo Ferroviário de Paranapiacaba",
+        "Localização": "Vila de Paranapiacaba",
+        "Número_do_Processo": "22209/82",
+        "Resolução_de_Tombamento": "Resolução 37 de 30/09/1987",
+        "Livro_do_Tombo_Histórico": "inscrição nº 276, p. 71, 18/07/1988"
+    },
+    {
+        "Patrimônio": "Complexo Ferroviário de Santos",
+        "Localização": "Largo Marquês de Monte Alegre s/ nº",
+        "Número_do_Processo": "22390/82",
+        "Resolução_de_Tombamento": "Resolução 64 de 19/12/2017."
+    },
+    {
+        "Patrimônio": "Complexo Ferroviário de Sorocaba",
+        "Localização": "Avenida Doutor Afonso Vergueiro",
+        "Número_do_Processo": "64204/11",
+        "Resolução_de_Tombamento": "Resolução 13 de 26/02/18."
+    },
+    {
+        "Patrimônio": "Complexo Hospitalar do Juquery",
+        "Localização": "Av. dos Coqueiros s/ nº – Franco da Rocha",
+        "Número_do_Processo": "24601/86",
+        "Resolução_de_Tombamento": "Resolução SC n.º 13, de 09/03/2011, publicado no DOE de 31/03/2011, pag. 203 (Republicado em 17/05/2011, pag. 37, com mapa)"
+    },
+    {
+        "Patrimônio": "Complexo Industrial Carioba",
+        "Localização": "Avenida Carioba na altura dos nros. 113 a 2001\n(veja abaixo descrição do perímetro formado pelo conjunto dos edifícios tombados)",
+        "Número_do_Processo": "23132/84",
+        "Resolução_de_Tombamento": "Resolução 21 de 09/05/2013",
+        "Livro_do_Tombo_Histórico": "inscrição nº 400, pg. 118."
+    },
+    {
+        "Patrimônio": "Complexo Padre Bento, antigo Sanatório Padre Bento",
+        "Localização": "Rua Francisco Foot s/ nº – Guarulhos",
+        "Número_do_Processo": "33189/95",
+        "Resolução_de_Tombamento": "Resolução SC-56, de 14/06/2011"
+    },
+    {
+        "Patrimônio": "Conjunto Arquitetônico da Escola Superior de Agricultura Luiz de Queiroz",
+        "Localização": "Campus da Escola Superior de Agricultura Luiz de Queiroz – Piracicaba",
+        "Número_do_Processo": "23.055/83",
+        "Resolução_de_Tombamento": "Resolução SC-89, de 12/12/06 e Resolução SC-4, de 25/03/08",
+        "Livro_do_Tombo_Histórico": "inscrição nº 362, p. 98 e 99, 09/09/2009"
+    },
+    {
+        "Patrimônio": "Conjunto da Estação Ferroviária de Águas da Prata",
+        "Localização": "Rua Dr. Brandão",
+        "Número_do_Processo": "65340/11",
+        "Resolução_de_Tombamento": "Resolução SC-128 de 26/12/18."
+    },
+    {
+        "Patrimônio": "Conjunto da Estação Ferroviária De Andradina",
+        "Localização": "Avenida Barão de Rio Branco, Rua Acácio e Silva, Rua Rodrigues Alves (continuação Avenida Guanabara), Praça dos Estudantes (Praça da Estação), Rua Guaraçaí (ou Rua Vereador Manoel T. de Freitas) e Rua Dom Bosco (continuação da Rua Acácio e Silva), s/ nº",
+        "Número_do_Processo": "30215/92",
+        "Resolução_de_Tombamento": "Resolução 42 de 16/07/2012",
+        "Livro_do_Tombo_Histórico": "inscrição nº 392, p. 113, 17/10/2012"
+    },
+    {
+        "Patrimônio": "Conjunto da Estação Ferroviária de Avaré",
+        "Localização": "Praça Eng. Miller, Av. Major Rangel e Rua Sergipe – Avaré",
+        "Número_do_Processo": "64203/11",
+        "Resolução_de_Tombamento": "Resolução 23 de 15/03/2016",
+        "Livro_do_Tombo_Histórico": "inscrição nº 446, p.134."
+    },
+    {
+        "Patrimônio": "Conjunto da Estação Ferroviária de Brodowski",
+        "Localização": "Perímetro: Inicia junto à esquina sul da Rua Carlos Gomes com José Branco, seguindo por esta via no sentido sudeste, cruzando a Av. Rio Branco; deflete a sudoeste na Rua Floriano Peixoto; deflete a noroeste na Rua Marechal Deodoro, contornando o canteiro adjacente ao Armazém; deflete a nordeste na Rua Carlos Gomes e segue até o ponto inicial, conformando o perímetro.",
+        "Número_do_Processo": "65351/11",
+        "Resolução_de_Tombamento": "Resolução SC-46 de 19/12/19."
+    },
+    {
+        "Patrimônio": "Conjunto da Estação Ferroviária de Chavantes",
+        "Localização": "Rua Coronel Júlio Silva s/ nº – Chavantes",
+        "Número_do_Processo": "64198/11",
+        "Resolução_de_Tombamento": "Resolução 22 de 15/03/2016",
+        "Livro_do_Tombo_Histórico": "inscrição nº 445, pgs. 133/134."
+    },
+    {
+        "Patrimônio": "Conjunto da Estação Ferroviária de Franco da Rocha",
+        "Localização": "Rua Azevedo Soares, Avenida Ângelo Sestini, Avenida Sete de Setembro, s/ nº",
+        "Número_do_Processo": "60305/09",
+        "Resolução_de_Tombamento": "Resolução SC 74 de 19/08/2011",
+        "Livro_do_Tombo_Histórico": "inscrição nº 381, p.111, 07/11/2011"
+    },
+    {
+        "Patrimônio": "Conjunto da Estação Ferroviária de Jaguariúna",
+        "Localização": "Rua Amazonas e Rua Holanda – Jaguariúna",
+        "Número_do_Processo": "31660/94",
+        "Resolução_de_Tombamento": "Resolução 66 de 21/06/2016",
+        "Livro_do_Tombo_Histórico": "inscrição nº 447, p. 134."
+    },
+    {
+        "Patrimônio": "Conjunto da Estação Ferroviária de Jaraguá",
+        "Localização": "Avenida Doutor Felipe Pinel, Rua João Aires e Estrada de Taipas, s/nº",
+        "Número_do_Processo": "60308/09",
+        "Resolução_de_Tombamento": "Resolução SC 75, de 19/08/2011.",
+        "Livro_do_Tombo_Histórico": "inscrição nº 382, pg. 111."
+    },
+    {
+        "Patrimônio": "Conjunto da Estação Ferroviária de Piraju",
+        "Localização": "Avenidas Doutor Simão e Oscar Ribeiro s/nº, no distrito de Tibiriça do Paranapanema",
+        "Número_do_Processo": "24812/86",
+        "Resolução_de_Tombamento": "Resolução 12 de 27/03/2013",
+        "Livro_do_Tombo_Histórico": "inscrição nº 395, p. 114."
+    },
+    {
+        "Patrimônio": "Conjunto da Estação Ferroviária de Piratininga",
+        "Localização": "perímetro formado pela Rua Manoel Pedro Carneiro; Rua Margarido Pires; divisa de lote particular com Praça do Turista; Avenida Coronel Soares; Travessa Dr. Napoleão Laureano; divisa de lotes particulares com a Praça do Turista; Rua Manoel Pedro Carneiro.",
+        "Número_do_Processo": "59339/09",
+        "Resolução_de_Tombamento": "Resolução 30 de 10/06/2013",
+        "Livro_do_Tombo_Histórico": "inscrição nº 398, pgs. 115 e 116."
+    },
+    {
+        "Patrimônio": "Conjunto da Estação Ferroviária de Queluz",
+        "Localização": "Divisa entre os imóveis 51 e sem número da Rua Tenente Manoel França; projeção em linha reta desta divisa até a margem direita do Rio Paraíba do Sul, margem direita do Rio Paraíba do Sul; projeção em linha reta do limite da plataforma que se estende a leste da estação; divisa posterior dos lotes à Rua Mario Fabri que dão fundo ao pátio ferroviário; Rua Tenente Manoel França.",
+        "Número_do_Processo": "75385/15",
+        "Resolução_de_Tombamento": "Resolução SC-45 de 19/12/19."
+    },
+    {
+        "Patrimônio": "Conjunto da Estação Ferroviária de Rio Grande da Serra",
+        "Localização": "Estrada Guilherme Pinto Monteiro, Avenida Dom Pedro I, s/ nº",
+        "Número_do_Processo": "60309/09",
+        "Resolução_de_Tombamento": "Resolução 76 de 19/08/2011",
+        "Livro_do_Tombo_Histórico": "inscrição nº 383, p. 111, 07/11/2011"
+    },
+    {
+        "Patrimônio": "Conjunto da Estação Ferroviária de Sumaré",
+        "Localização": "Município de Sumaré – ver perímetro do tombamento abaixo",
+        "Número_do_Processo": "46225/03",
+        "Resolução_de_Tombamento": "Resolução 04 de 06/02/2013 e Resolução SC-26 de 03/06/2013",
+        "Livro_do_Tombo_Histórico": "nº 432, pgs. 129-130."
+    },
+    {
+        "Patrimônio": "Conjunto da Estação Ferroviária de Taubaté",
+        "Localização": "Perímetro que inicia na esquina da Rua Dea Freire com Rua Santos Dumont, seguindo no sentido sudeste desta vida; cruzando a via férrea da antiga EFCB, deflete a sudoeste e segue pelo lado norte do Parque Dr. Barbosa de Oliveira; deflete a noroeste na esquina oeste deste Parque com a Rua Dino Bueno; cruzando a linha férrea; deflete a nordeste junto aos muros de divisa entre a propriedade da União (antiga RFFSA) e os lotes voltados para a Av. Monteiro Lobato; deflete a noroeste junto aos muros de divisa de fundos da propriedade da União (antiga RFFSA) voltada para a Rua Dea Freire; deflete a nordeste na Av. Monteiro Lobato; deflete a sudeste na Rua Dea Freire; deflete a nordeste na Rua Dea Freire e segue até o ponto inicial, onde conforma o perímetro, que inclui Prédio da Estação Ferroviária, Armazém de Carga, Leito ferroviário, no trecho entre a Rua Santos Dumont e a projeção em linha reta do limite sudoeste da Parque Dr. Barbosa de Oliveira (Rua Anizio Ortiz Monteiro);  Oficina e Vila Ferroviária.",
+        "Número_do_Processo": "65.341/11",
+        "Resolução_de_Tombamento": "Resolução SC nº 034, de 17/08/2021."
+    },
+    {
+        "Patrimônio": "Conjunto da Estação Ferroviária de Vargem",
+        "Localização": "Perímetro I: Inicia na esquina da Rua Professor Francisco Morato com a Rua Mansur João Abid, seguindo sentido oeste ao longo desta via; deflete a noroeste, junto ao muro de divisa entre o lote do Conjunto Ferroviário e o voltado para a Rua Nossa Senhora de Fátima; deflete a nordeste na Rua Nossa Senhora de Fátima, contornando o limite da rotatória na confluência desta via com a Rua Geraldino de Oliveira e seguindo no mesmo sentido por esta via; deflete a sudeste junto ao muro de divisa entre o lote do Armazém Ferroviário e o voltado para a Rua Geraldino de Oliveira; deflete a sudoeste na Rua Guilherme José de Oliveira e segue até o ponto inicial, onde conforma este perímetro;",
+        "Número_do_Processo": "65344/11",
+        "Resolução_de_Tombamento": "Resolução SC-50 de 27/12/19."
+    },
+    {
+        "Patrimônio": "Conjunto da Estação Ferroviária de Vinhedo",
+        "Localização": "Rua João Gasparini, Rua Augusto Bombonati, Rua Tabuleirinhos, Avenida Dois de Abril e Rua Monteiro de Barros, s/ nº – Vinhedo",
+        "Número_do_Processo": "61056/10",
+        "Resolução_de_Tombamento": "Resolução 40 de 16/07/2012",
+        "Livro_do_Tombo_Histórico": "inscrição nº 390, p. 113, 11/10/2012"
+    },
+    {
+        "Patrimônio": "Conjunto das Antigas Instalações da Escola Politécnica – USP",
+        "Localização": "Praça Fernando Prestes, 30, esquina com a Av. Tiradentes s/n, e 74, 110, 152 e 258",
+        "Número_do_Processo": "39843/00",
+        "Resolução_de_Tombamento": "Resolução 186 de 12/12/2002",
+        "Livro_do_Tombo_Histórico": "inscrição nº 336, pp. 86 e 87, 16/05/2003"
+    },
+    {
+        "Patrimônio": "Conjunto das antigas instalações da OBAN e DOI-CODI",
+        "Localização": "Rua Tutoia, 921 – São Paulo",
+        "Número_do_Processo": "66578/12",
+        "Resolução_de_Tombamento": "Resolução 25 de 12/05/14",
+        "Livro_do_Tombo_Histórico": "inscrição nº 414, p. 123/124"
+    },
+    {
+        "Patrimônio": "Conjunto de Edificações da Associação Atlética Acadêmica Oswaldo Cruz",
+        "Localização": "Praça de Esporte: Rua Arthur de Azevedo, 1",
+        "Número_do_Processo": "28225/90",
+        "Resolução_de_Tombamento": "Resolução 187 de 12/12/2002, revogada pela Resolução SC-31 de 19/12/2019.",
+        "Livro_do_Tombo_Histórico": "inscrição nº 339, p. 87, 28/05/2003"
+    },
+    {
+        "Patrimônio": "Conjunto de Edifícios da Pontifícia Universidade Católica de São Paulo – PUC",
+        "Localização": "Endereço: Rua Monte Alegre, 984 a 1024 – bairro: Perdizes",
+        "Número_do_Processo": "31720/94",
+        "Resolução_de_Tombamento": "Resolução 29 de 11/01/2002 e Resolução 45 de 09/05/2016",
+        "Livro_do_Tombo_Histórico": "inscrição nº 332, p. 84, 08/02/2002"
+    },
+    {
+        "Patrimônio": "Conjunto de Imóveis",
+        "Localização": "I – Igreja Matriz de Nossa Senhora da Conceição- Praça Cônego Siqueira s/nº; II – Igreja Nossa Senhora do Rosário dos Pretos – Praça do Rosário s/nº; III – Mercado Municipal – Rua Dom Lino, 118; IV – Sobrado à Praça Coronel João Olímpio, nº 52; V – Rua Dom Lino, 49, 53, 93, 101; VI – Praça Cônego Siqueira, 1, 46, 58, 91, 97, 117; VII – Travessa Paulo Virgílio, 10; VIII – Rua Comendador João Vaz, 43; IX – Praça Coronel João Olímpio, 05, 09, 17, 27, 65, 91; X – Rua João Manoel Rodrigues, 17 e XI – Rua Major Santana, 53",
+        "Número_do_Processo": "33706/95",
+        "Resolução_de_Tombamento": "Resolução 12 de 26/02/18.",
+        "Livro_do_Tombo_Histórico": "inscrição nº 485, p. 152 a 153."
+    },
+    {
+        "Patrimônio": "Conjunto de imóveis do Bairro Campos Elíseos",
+        "Localização": "Bairro Campos Elíseos",
+        "Número_do_Processo": "24506/86",
+        "Resolução_de_Tombamento": "Resolução 20 de 23/04/2013",
+        "Livro_do_Tombo_Histórico": "inscrição nº 399, pgs. 116 a 1185."
+    },
+    {
+        "Patrimônio": "Conjunto de Imóveis e Logradouros",
+        "Localização": "Centro – Araraquara",
+        "Número_do_Processo": "28687/91",
+        "Resolução_de_Tombamento": "Resolução 42 de 02/04/1998",
+        "Livro_do_Tombo_Histórico": "inscrição nº 324, pp. 81 e 82, 05/04/1999"
+    },
+    {
+        "Patrimônio": "Conjunto de Imóveis em Higienópolis",
+        "Localização": "Av. Angélica nºs 1647, 1596, 1212; Av. Higienópolis nºs 232, 265, 436, 462, 674, 698, 726, 758, 870, 890, 938; Rua Piauí nº 752 Parque Buenos Aires.",
+        "Número_do_Processo": "72974/14",
+        "Resolução_de_Tombamento": "Resolução SC-49 de 19/12/19."
+    },
+    {
+        "Patrimônio": "Conjunto de Imóveis em São Carlos",
+        "Localização": "",
+        "Número_do_Processo": "25013/86",
+        "Resolução_de_Tombamento": "Resolução SC-48 de 19/12/19."
+    },
+    {
+        "Patrimônio": "Conjunto de Obras de Saneamento da Baixada Santista, de Saturnino de Brito",
+        "Localização": "Baixada Santista",
+        "Número_do_Processo": "40224/00",
+        "Resolução_de_Tombamento": "Res. SC 23 de 16/06/2006",
+        "Livro_do_Tombo_Histórico": "inscrição nº 353, p. 95, 06/12/2006"
+    },
+    {
+        "Patrimônio": "Conjunto de Santo Antônio do Valongo",
+        "Localização": "Largo Marquês de Monte Alegre, 13 – Santos",
+        "Número_do_Processo": "22391/82",
+        "Resolução_de_Tombamento": "Resolução 44 de 28/09/1995",
+        "Livro_do_Tombo_Histórico": "inscrição nº 318, p. 80, 31/01/1996"
+    },
+    {
+        "Patrimônio": "Conjunto do antigo Instituto Escolástica Rosa",
+        "Localização": "Av. Bartolomeu de Gusmão nº 111",
+        "Número_do_Processo": "63865/101",
+        "Resolução_de_Tombamento": "Resolução 63 de 07/08/2013",
+        "Livro_do_Tombo_Histórico": "inscrição nº 404, pg.119"
+    },
+    {
+        "Patrimônio": "Conjunto do recinto de exposição agropecuária Paulo de Lima Correa",
+        "Localização": "Rua Trinta e Quatro, s/n, bairro Exposição – Barretos",
+        "Número_do_Processo": "54.721/06",
+        "Resolução_de_Tombamento": "Resolução SC – 10, de 11-3-2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 368, pg. 101"
+    },
+    {
+        "Patrimônio": "Conjunto dos Grandes Moinhos Minetti Gamba",
+        "Localização": "Rua Borges de Figueiredo nros. 300 e 510, São Paulo",
+        "Número_do_Processo": "55902/07",
+        "Resolução_de_Tombamento": "Resolução 31, de 11/06/2013",
+        "Livro_do_Tombo_Histórico": "inscrição nº 407, pag 120."
+    },
+    {
+        "Patrimônio": "Conjunto Ferroviário Central de Araçatuba",
+        "Localização": "Av. Barão de Rio Branco nº 100 (Oficina de Locomotivas); Rua Quinze de Novembro nº 247 (casa do Engenheiro-chefe) – Araçatuba",
+        "Número_do_Processo": "42095/01",
+        "Resolução_de_Tombamento": "Resolução 43 de 16/07/2012; retificação na Resolução 131 de 26/12/2018."
+    },
+    {
+        "Patrimônio": "Conjunto Ferroviário de Caetetuba",
+        "Localização": "Rua Comendador Edson Luis Rizo com a Rua Atibaia",
+        "Número_do_Processo": "65335/11",
+        "Resolução_de_Tombamento": "Resolução SC-112 de 07/11/18."
+    },
+    {
+        "Patrimônio": "Conjunto Ferroviário de Caieiras",
+        "Localização": "Rodovia Presidente Tancredo de Almeida Neves (SP-332), Rua Júlio Cardoso, Praça da Emancipação Prefeito Gino Dartora, s/ nº",
+        "Número_do_Processo": "60306/09",
+        "Resolução_de_Tombamento": "Resolução 87 de 18/10/2011",
+        "Livro_do_Tombo_Histórico": "inscrição nº 387, p. 112, 11/10/2012"
+    },
+    {
+        "Patrimônio": "Conjunto Ferroviário de Perus",
+        "Localização": "Avenida Doutor Sílvio de Campos, Rua Sales Gomes, Rua Bernardo José de Lorena, Travessa Cambaratiba, Rua Joaquim Antônio Arruda, s/ nº – Perus",
+        "Número_do_Processo": "60307/09",
+        "Resolução_de_Tombamento": "Resolução 88 de 18/10/2011",
+        "Livro_do_Tombo_Histórico": "inscrição nº 388, p. 112, 11/10/2012"
+    },
+    {
+        "Patrimônio": "Conjunto Ferroviário de Ribeirão Pires",
+        "Localização": "Rua Capitão José Gallo, Avenida Kaethe Richers, Rua Alfredo Botacin, Avenida Santo André, Praça Hermenegildo Baldi e Rua do Comércio, s/ nº – Ribeirão Pires",
+        "Número_do_Processo": "60313/09",
+        "Resolução_de_Tombamento": "Resolução 89 de 18/10/2011",
+        "Livro_do_Tombo_Histórico": "inscrição nº 389, p. 112/113, 11/10/2012"
+    },
+    {
+        "Patrimônio": "Conjunto Ferroviário de Valinhos",
+        "Localização": "Município de Valinhos (ver perímetro do tombamento)",
+        "Número_do_Processo": "61057/10",
+        "Resolução_de_Tombamento": "Resolução 98 de 23/10/2013"
+    },
+    {
+        "Patrimônio": "Conjunto Ferroviário de Várzea Paulista",
+        "Localização": "Avenida Pacaembu, Avenida Duque de Caxias, Rua Antonio Feres Sada e Rua Edgard de Azevedo Soares, s/ nº",
+        "Número_do_Processo": "60304/09",
+        "Resolução_de_Tombamento": "Resolução 86 de 18/10/2011",
+        "Livro_do_Tombo_Histórico": "inscrição nº 386, p. 112, 11/10/2012"
+    },
+    {
+        "Patrimônio": "Conjunto Nacional",
+        "Localização": "Avenida Paulista, 2073",
+        "Número_do_Processo": "42666/01",
+        "Resolução_de_Tombamento": "Resolução 22 de 07/04/2005",
+        "Livro_do_Tombo_Histórico": "inscrição nº 348, p. 93, 22/09/2005"
+    },
+    {
+        "Patrimônio": "Conjunto Urbano de Espírito Santo do Pinhal",
+        "Localização": "Centro – Espírito Santo do Pinhal",
+        "Número_do_Processo": "26264/88",
+        "Resolução_de_Tombamento": "Resolução 35 de 16/11/1992",
+        "Livro_do_Tombo_Histórico": "inscrição nº 301, p. 76, 06/04/1993"
+    },
+    {
+        "Patrimônio": "Conservatório Dramático e Musical de São Paulo",
+        "Localização": "Av. São João nº 269 – São Paulo",
+        "Número_do_Processo": "40366/00",
+        "Resolução_de_Tombamento": "Resolução 91 de 25/08/14",
+        "Livro_do_Tombo_Histórico": "inscrição nº 420, p.125-126."
+    },
+    {
+        "Patrimônio": "Convento de Santa Clara",
+        "Localização": "Praça Barão do Rio Branco, 30 – Taubaté",
+        "Número_do_Processo": "08575/69",
+        "Resolução_de_Tombamento": "Resolução  23, de 1º-7-86",
+        "Livro_do_Tombo_Histórico": "inscrição nº 254, p. 67, 23/01/1987"
+    },
+    {
+        "Patrimônio": "Convento Franciscano de Nossa Senhora do Amparo",
+        "Localização": "Praça Lourenço Lovisi, s/n – São Sebastião",
+        "Número_do_Processo": "00021/71",
+        "Resolução_de_Tombamento": "Resolução de 21/07/1972",
+        "Livro_do_Tombo_Histórico": "inscrição nº 62, p. 5, 22/09/1972"
+    }
+]

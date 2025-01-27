@@ -1,0 +1,773 @@
+[
+    {
+        "Patrimônio": "Cratera de Colônia",
+        "Localização": "Região sul do município de São Paulo, distrito de Parelheiros",
+        "Número_do_Processo": "32938/95",
+        "Resolução_de_Tombamento": "Resolução 60 de 20/08/2003\nLivro do Tombo Arqueológico, Etnográfico e Paisagístico: inscrição nº 11, p. 8, 05/07/2004"
+    },
+    {
+        "Patrimônio": "Desinfectório Central",
+        "Localização": "Rua Tenente Pena, 100",
+        "Número_do_Processo": "23881/85",
+        "Resolução_de_Tombamento": "Resolução 50 de 26/08/1985",
+        "Livro_do_Tombo_Histórico": "inscrição nº 239, p. 65, 21/01/1987"
+    },
+    {
+        "Patrimônio": "Destilaria Central",
+        "Localização": "Coronel Joaquim Anselmo Martins, s/n",
+        "Número_do_Processo": "24037/85",
+        "Resolução_de_Tombamento": "Resolução 30 de 19/12/1989",
+        "Livro_do_Tombo_Histórico": "Inscrição nº 291, p. 74, 06/07/1990"
+    },
+    {
+        "Patrimônio": "Dir. Ensino/GE Carlos Batista Magalhães",
+        "Localização": "Rua Gonçalves Dias, 291 – CEP 14801-290 – Araraquara",
+        "Código_Sec._Est._Educ.": "06.76.117",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "Diretoria de Ensino Cel Prof. Alfredo de Barros Santos",
+        "Localização": "Praça Cons. Rodrigues Alves, 27 – CEP 12500-000 – Guaratinguetá",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011.",
+        "Código_Sec._Est._Educ.": "03.28.110"
+    },
+    {
+        "Patrimônio": "E.E. Abílio Manoel",
+        "Localização": "Praça Valêncio de Barros, 186 – CEP 14700-009 – Bebedouro",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010"
+    },
+    {
+        "Patrimônio": "E.E. Alfredo Guedes",
+        "Localização": "Praça Pe. Donizete T. de Lima, 159 – CEP 13710-000, Tambaú",
+        "Código_Sec._Est._Educ.": "05.76.101",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. AMADEU AMARAL – BELÉM",
+        "Localização": "Lgo. São José do Belém – CEP 03057-040, São Paulo",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011.",
+        "Código_Sec._Est._Educ.": "00.23.101"
+    },
+    {
+        "Patrimônio": "E.E. ANHANGUERA – LAPA",
+        "Localização": "Rua Antonio Raposo, 87 – CEP 05074-020, São Paulo",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011.",
+        "Código_Sec._Est._Educ.": "00.43.105"
+    },
+    {
+        "Patrimônio": "E.E. Antonio Joaquim de Carvalho",
+        "Localização": "Praça Pedro de Toledo, s/n° – CEP 14801-348 – Araraquara",
+        "Código_Sec._Est._Educ.": "06.76.117",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. Antonio Padilha",
+        "Localização": "Rua Prof. Toledo, 77 – CEP 18035-200 – Sorocaba",
+        "Código_Sec._Est._Educ.": "04.15.110",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. Ataliba Leonel",
+        "Localização": "Rua Nenê Freitas, 494 – CEP 18800-000 – Piraju",
+        "Código_Sec._Est._Educ.": "11.38.102",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. Barão do Rio Branco",
+        "Localização": "Rua Ipiranga, 924 – CEP 13400-485, Piracicaba",
+        "Código_Sec._Est._Educ.": "05.33.117",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. Barão Monte Santo",
+        "Localização": "Praça Ademar de Barros, 181 – CEP 13730-000 – Mococa",
+        "Código_Sec._Est._Educ.": "05.73.102",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011"
+    },
+    {
+        "Patrimônio": "E.E. Barão Surui",
+        "Localização": "Praça Paulo Setubal, 101 CEP 18270-000, Tatuí",
+        "Código_Sec._Est._Educ.": "04.25.105",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. Barnabé",
+        "Localização": "Praça Correa de Mello, s/nº – CEP 11013-550, Santos",
+        "Código_Sec._Est._Educ.": "02.09.105",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. Carlos José Botelho",
+        "Localização": "Rua José Modesto de Abreu, 269 – CEP 13590-000 – Dourado",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011.",
+        "Código_Sec._Est._Educ.": "06.91.101"
+    },
+    {
+        "Patrimônio": "E.E. Cel Marcos Ribeiro",
+        "Localização": "Praça Deocleciano Ribeiro, 143 – CEP 18870-000 – Fartura",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011.",
+        "Código_Sec._Est._Educ.": "11.33.101"
+    },
+    {
+        "Patrimônio": "E.E. Cel. Domingos Ferreira",
+        "Localização": "Rua Dr. Carlos de Campos, 24 – CEP 13190-000 – Monte Mor",
+        "Código_Sec._Est._Educ.": "05.17.101",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011.",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010"
+    },
+    {
+        "Patrimônio": "E.E. Cel. Francisco Martins",
+        "Localização": "Praça Cel. Antonio Jacinto , 1533 CEP – 14400-540 – Franca",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011.",
+        "Código_Sec._Est._Educ.": "06.24.116"
+    },
+    {
+        "Patrimônio": "E.E. Cel. Francisco Orlando",
+        "Localização": "Rua 4, 146, CEP 14620-000 – Orlândia",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011.",
+        "Código_Sec._Est._Educ.": "06.46.101"
+    },
+    {
+        "Patrimônio": "E.E. Cel. João Ernesto Figueiredo",
+        "Localização": "Av. Waldomiro Villaça, 126 – CEP 12980-100 – Joanópolis",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011.",
+        "Código_Sec._Est._Educ.": "05.93.101",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010"
+    },
+    {
+        "Patrimônio": "E.E. Cel. Joaquim José",
+        "Localização": "Praça Cel. Joaquim José, 123 – CEP 13870-000, São João da Boa Vista",
+        "Código_Sec._Est._Educ.": "05.65.103",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. Cel. Joaquim Salles",
+        "Localização": "Rua Sete, 793 – CEP 13500-060 – Rio Claro",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011.",
+        "Código_Sec._Est._Educ.": "05.56.109"
+    },
+    {
+        "Patrimônio": "E.E. Cel. Justiniano Whitaker de Oliveira",
+        "Localização": "Rua Cel. André Ulson Junior, 32 – CEP 13600-000 – Araras",
+        "Código_Sec._Est._Educ.": "05.41.106",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": ""
+    },
+    {
+        "Patrimônio": "E.E. Cel. Pinto Ferraz",
+        "Localização": "Rua Dr. Piraja da Silva, 473 – CEP 13580-000 – Ribeirão Bonito",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011"
+    },
+    {
+        "Patrimônio": "E.E. Cel. Venâncio",
+        "Localização": "Av. Cel. João Leite, 200 – CEP 13800-000 – Mogi Mirim",
+        "Código_Sec._Est._Educ.": "05.14.107",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. Chagas Pereira",
+        "Localização": "Rua 13 de Maio, 598 – CEP 17120-000 – Aparecida",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. Conde Moreira Lima",
+        "Localização": "Rua Rodrigues de Azevedo, 436 – CEP 12600-000 – Lorena",
+        "Código_Sec._Est._Educ.": "03.31.104",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "lResolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. Conde Parnaíba",
+        "Localização": "Rua Barão de Jundiaí, 1106 – CEP 13200-002 – Jundiaí",
+        "Código_Sec._Est._Educ.": "05.84.112",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. CONS. ANTONIO PRADO – BARRA FUNDA",
+        "Localização": "Rua Vitorino Carmilo, 621 – CEP 01153-000, São Paulo",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011.",
+        "Código_Sec._Est._Educ.": "00.25.104"
+    },
+    {
+        "Patrimônio": "E.E. Convenção de Itu",
+        "Localização": "Praça Conde de Parnaíba, 422 – CEP 13300-000, Itu",
+        "Código_Sec._Est._Educ.": "04.06.105",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. Coronel Almeida",
+        "Localização": "Rua Dr. Paulo Frontin, 240 – CEP 08710-050 – Mogi das Cruzes",
+        "Código_Sec._Est._Educ.": "01.23.108",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. Coronel Vaz",
+        "Localização": "Av. General Osório, 215 – CEP 14870-100 – Jaboticabal",
+        "Código_Sec._Est._Educ.": "06.61.105",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. DOM PEDRO II – PERDIZES",
+        "Localização": "Rua Marta, 33 – CEP 01155-010, São Paulo",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. Dona Francisca Ribeiro dos Reis",
+        "Localização": "Rua Quintino Bocaiúva, 145 – CEP 17380-000 – Brotas",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011.",
+        "Código_Sec._Est._Educ.": "05.52.102"
+    },
+    {
+        "Patrimônio": "E.E. Dona Sinhá Junqueira",
+        "Localização": "Rua Cons. Dantas, 358 – CEP 14050-400 – Ribeirão Preto",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011.",
+        "Código_Sec._Est._Educ.": "06.13.121"
+    },
+    {
+        "Patrimônio": "E.E. Dr. Alfredo Pujol",
+        "Localização": "Rua Br. Homem de Mello, 63 – CEP 12400-440, Pindamonhangaba",
+        "Código_Sec._Est._Educ.": "03.15.103",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. Dr. Arnolfo Azevedo",
+        "Localização": "Av. Maj. Novaes, 126 – CEP 12700-000 – Cruzeiro",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011.",
+        "Código_Sec._Est._Educ.": "03.26.106"
+    },
+    {
+        "Patrimônio": "E.E. Dr. Candido Lobo",
+        "Localização": "Praça Cel. Gustavo Ribeiro, 92 – CEP 13770-000 – Caconde",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011.",
+        "Código_Sec._Est._Educ.": "05.70.101"
+    },
+    {
+        "Patrimônio": "E.E. Dr. Carlos Guimarães",
+        "Localização": "Rua Santa Cruz, 206 – CEP 13650-000 – Santa Cruz das Palmeiras",
+        "Código_Sec._Est._Educ.": "05.74.101",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. Dr. Cesário Bastos",
+        "Localização": "Praça Narciso de Andrade, s/nº – CEP 11013-550 – Santos",
+        "Código_Sec._Est._Educ.": "02.09.111",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. Dr. Evangelista Rodrigues",
+        "Localização": "Praça Dr. Pedro de Toledo, 136 – CEP 12280-000 – Cachoeira Paulista",
+        "Número_do_Processo": "Processo 24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011.",
+        "Código_Sec._Est._Educ.": "03.25.101"
+    },
+    {
+        "Patrimônio": "E.E. Dr. Flamínio Lessa",
+        "Localização": "Rua Tamandaré, 145 – CEP 12500-000 – Guaratinguetá",
+        "Número_do_Processo": "24929/1986",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011.",
+        "Código_Sec._Est._Educ.": "03.28.103"
+    },
+    {
+        "Patrimônio": "E.E. Dr. Fortunato de Camargo",
+        "Localização": "Rua Irmãos Basile, 527 – CEP 18240-000 – Angatuba",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. Dr. Guimarães Jr.",
+        "Localização": "Rua Lafaiete, 584 – CEP 14015-080 – Ribeirão Preto",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011",
+        "Código_Sec._Est._Educ.": "06.13.115"
+    },
+    {
+        "Patrimônio": "E.E. Dr. Julio Mesquita",
+        "Localização": "Rua Campos Salles, 35 – CEP 13970-000 – Itapira",
+        "Código_Sec._Est._Educ.": "05.10.102",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011"
+    },
+    {
+        "Patrimônio": "E.E. Dr. Lopes Chaves",
+        "Localização": "Rua Dr. Pedro Costa, 164 – CEP 12010-160, Taubaté",
+        "Código_Sec._Est._Educ.": "03.18.101",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. Dr. Luiz Dumont",
+        "Localização": "Av. Dr. Luiz Dumont, 380 – CEP 15950-000 – Santa Adélia",
+        "Código_Sec._Est._Educ.": "08.05.101",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. Dr. Mousart Alves da Silva",
+        "Localização": "Rua Sampaio Moreira, 782 – CEP 14240-000 – Cajuru",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011.",
+        "Código_Sec._Est._Educ.": "06.05.102"
+    },
+    {
+        "Patrimônio": "E.E. Dr. Rodrigues Alves",
+        "Localização": "Rua Dr. José Alves, 195 – CEP 13800-000 – Mogi Mirim",
+        "Código_Sec._Est._Educ.": "05.14.104",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. e EMEF Dr. Luis Narciso Gomes",
+        "Localização": "Rua Dr. Jorge Tibiriçá, 1014 – CEP 13620-000 – Santa Cruz da Conceição",
+        "Código_Sec._Est._Educ.": "05.48.101",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. Fábio Barreto",
+        "Localização": "Rua Amador Bueno, 220 – CEP 14010-070 – Ribeirão Preto",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. Francisco de Derosa",
+        "Localização": "Praça Dr. Álvaro Guião, s/n° – CEP 12960-000 – Nazaré Paulista",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. Francisco Ferreira de Freitas",
+        "Localização": "Rua Pe. Soares, 5 – CEP 14230-000 – Serra Azul",
+        "Código_Sec._Est._Educ.": "06.18.101",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. Francisco Glicério",
+        "Localização": "Av. Dr. Moraes Sales, 988 – CEP 13010-001 – Campinas",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011.",
+        "Código_Sec._Est._Educ.": "05.05.126"
+    },
+    {
+        "Patrimônio": "E.E. Francisco Simões",
+        "Localização": "Praça Francisco Simões, 39 – CEP 17300-000 – Dois Córregos",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011.",
+        "Código_Sec._Est._Educ.": "07.37.101"
+    },
+    {
+        "Patrimônio": "E.E. João Florêncio",
+        "Localização": "Praça Paulo Setubal, 21 – CEP 18270-000, Tatuí",
+        "Código_Sec._Est._Educ.": "04.25.101",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. João Nogueira",
+        "Localização": "Av. Rita Cândida Nogueira, 137 – CEP 14140-000 – Cravinhos",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011.",
+        "Código_Sec._Est._Educ.": "06.07.103"
+    },
+    {
+        "Patrimônio": "E.E. José Gabriel de Oliveira",
+        "Localização": "Av. de Cillo, 67 – CEP 13450-050 – Santa Bárbara d’Oeste",
+        "Código_Sec._Est._Educ.": "05.35.102",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. José Inocêncio da Costa",
+        "Localização": "Rua Cesário Mota, 756 – CEP 15990-000 – Matão",
+        "Código_Sec._Est._Educ.": "06.83.101",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. Lourenço Franco de Oliveira",
+        "Localização": "Rua Tiradentes, 173 – CEP 13930-000 – Serra Negra",
+        "Código_Sec._Est._Educ.": "05.23.102",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. Luiz Antunes",
+        "Localização": "Rua Luiz Fernandes Diogo, 432 – CEP 18530-000, Tietê",
+        "Código_Sec._Est._Educ.": "03.18.101",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. Luiz Chrisostomo de Oliveira",
+        "Localização": "E.E. Luiz Chrisostomo de Oliveira",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. Major Prado",
+        "Localização": "Rua Lourenço Prado, 513 – CEP 17201-000 – Jaú",
+        "Código_Sec._Est._Educ.": "07.41.192",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. MAL. FLORIANO – VILA MARIANA",
+        "Localização": "Rua Dona Julia, 2183 – CEP 04117-020, São Paulo",
+        "Código_Sec._Est._Educ.": "00.51.103",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. MAL.DEODORO – BOM RETIRO",
+        "Localização": "Rua Dos Italianos, 405 – CEP 01131-000, São Paulo",
+        "Código_Sec._Est._Educ.": "00.36.101",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. Maria Falconi de Felicio",
+        "Localização": "Praça Rio Branco, 31 – CEP 14750-000 – Pitangueiras",
+        "Código_Sec._Est._Educ.": "06.05.101",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. Matilde Vieira",
+        "Localização": "Praça. Cel. Edmundo Trench – CEP 18701-783 – Avaré",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011.",
+        "Código_Sec._Est._Educ.": "04.54.101"
+    },
+    {
+        "Patrimônio": "E.E. Moraes Barros",
+        "Localização": "Praça Dr. Jorge Tibiriçá, s/n° – CEP 13400-123, Piracicaba",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Código_Sec._Est._Educ.": "05.33.104"
+    },
+    {
+        "Patrimônio": "E.E. Nossa Senhora da Penha",
+        "Localização": "Rua Padre Benedito Camargo, 762",
+        "Número_do_Processo": "53.412/06",
+        "Resolução_de_Tombamento": "Resolução SC-16, de 23.03.2009",
+        "Livro_do_Tombo_Histórico": "nº 364, p. 99"
+    },
+    {
+        "Patrimônio": "E.E. Orosimbo Maia",
+        "Localização": "Av. Andrade Neves, 214 – CEP 13013-160 – Campinas",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011.",
+        "Código_Sec._Est._Educ.": "05.05.106"
+    },
+    {
+        "Patrimônio": "E.E. OSWALDO CRUZ – MOOCA",
+        "Localização": "Rua Da Mooca, 2183 – CEP 03103-000, São Paulo",
+        "Código_Sec._Est._Educ.": "00.25.104",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. Otoniel Mota",
+        "Localização": "Rua Prudente de Morais, 764 – CEP 14015-000 – Ribeirão Preto",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. Padre Armani",
+        "Localização": "Rua Siqueira Campos, 132 – CEP 13840-000 – Mogi Guaçu",
+        "Código_Sec._Est._Educ.": "05.13.102",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. PE. ANTONIO VIEIRA – SANTANA",
+        "Localização": "Av.Cruzeiro do Sul, 3301 – CEP 02031-200, São Paulo",
+        "Código_Sec._Est._Educ.": "00.08.101",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. Prof. Dantes",
+        "Localização": "Rua Benjamin Constant, 443 – CEP 14540-000 – Igarapava",
+        "Código_Sec._Est._Educ.": "06.38.101",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. Prof. Euclydes Moreira da Silva",
+        "Localização": "Av. Claudionor Barbieri, 870 – CEP 17250-000 – Bariri",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011.",
+        "Código_Sec._Est._Educ.": "07.33.101"
+    },
+    {
+        "Patrimônio": "E.E. Prof. Julio Ascânio Mallet",
+        "Localização": "Av. Sete de Setembro, 763 – CEP 14900-000 – Itápolis",
+        "Código_Sec._Est._Educ.": "06.82.102",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. Rangel Pestana",
+        "Localização": "Praça. Dr. Meirelles Reis, 153 – CEP 13903-049 – Amparo",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Código_Sec._Est._Educ.": "05.03.105",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. ROMÃO PUIGGARI – BRÁS",
+        "Localização": "Av. Rangel Pestana, 1482 – CEP 03002-000, São Paulo",
+        "Código_Sec._Est._Educ.": "00.24.102",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. Rozendo Duarte Lobo",
+        "Localização": "Rua Cel. José Bonini, 222 – CEP 18580-000, Pereiras",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. Ruy Barbosa",
+        "Localização": "Praça Dr. Pedro de Toledo, 136 – CEP 12280-000 – Caçapava",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011.",
+        "Código_Sec._Est._Educ.": "03.13.103"
+    },
+    {
+        "Patrimônio": "E.E. Sant’Anna do Parnaíba",
+        "Localização": "Rua Guarani, 130 – CEP 12211-740, São José dos Campos",
+        "Código_Sec._Est._Educ.": "03.10.206",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. Tancredo do Amaral",
+        "Localização": "Av. D. Pedro I, 170 – CEP 13320-000 – Salto",
+        "Código_Sec._Est._Educ.": "04.11.103",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. Tomé Teixeira",
+        "Localização": "Rua 15 de Novembro, 120 – CEP 18460-000 – Itararé",
+        "Código_Sec._Est._Educ.": "04.48.102",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. Vaz de Caminha",
+        "Localização": "Rua Capitão Dias, 187 – CEP 11920-000 – Iguape",
+        "Código_Sec._Est._Educ.": "02.21.104",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E. Visc. São Leopoldo",
+        "Localização": "Rua João Guerra, 251 – CEP 11020-131 – Santos",
+        "Código_Sec._Est._Educ.": "02.09.113",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "inscrição nº 377, p. 103 a 110, 05/09/2011.",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "E.E./EMEI Cel. José Levy",
+        "Localização": "Rua Visconde do Rio Branco, 437 – CEP 13490-000 – Cordeirópolis",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011.",
+        "Código_Sec._Est._Educ.": "05.43.102"
+    },
+    {
+        "Patrimônio": "E.E./EMEI Prof. Ângelo Martino",
+        "Localização": "Av. Dom, Pedro II, 645 – CEP 14940-000 – Ibitinga",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "Edificações de Propriedade dos Dominicanos",
+        "Localização": "Rua Caiubi, 126 e 164 e Rua Atibaia, s/n – bairro: Perdizes",
+        "Número_do_Processo": "24183/85",
+        "Resolução_de_Tombamento": "Resolução 20 de 04/05/1988",
+        "Livro_do_Tombo_Histórico": "inscrição nº 278, p. 72, 18/07/1988"
+    },
+    {
+        "Patrimônio": "Edifício Alexandre Mackenzie",
+        "Localização": "Rua Xavier de Toledo, 23",
+        "Número_do_Processo": "22803/83",
+        "Resolução_de_Tombamento": "Resolução 27 de 06/10/1984",
+        "Livro_do_Tombo_Histórico": "inscrição nº 234, p.64, 20/01/1987"
+    },
+    {
+        "Patrimônio": "Edifício Altino Arantes",
+        "Localização": "Rua João Brícola nº 24, São Paulo",
+        "Número_do_Processo": "45070/02",
+        "Resolução_de_Tombamento": "Resolução 110 de 22/12/14",
+        "Livro_do_Tombo_Histórico": "inscrição nº 426, p.127-128."
+    },
+    {
+        "Patrimônio": "Edifício Central do Instituto Adolfo Lutz",
+        "Localização": "Avenida Dr. Arnaldo, 355",
+        "Número_do_Processo": "26329/88",
+        "Resolução_de_Tombamento": "Resolução 32 de 18/10/1990, revogada pela Resolução SC-31 de 19/12/2019.",
+        "Livro_do_Tombo_Histórico": "Inscrição nº 296, p. 75, 04/03/1991"
+    },
+    {
+        "Patrimônio": "Edifício Conde Matarazzo e Viaduto do Chá",
+        "Localização": "Viaduto do Chá nº 15, São Paulo",
+        "Número_do_Processo": "27705/90 e 53679/06",
+        "Resolução_de_Tombamento": "Resolução 79 de 23/07/2015"
+    },
+    {
+        "Patrimônio": "Edifício da Antiga Escola Normal de Piracicaba",
+        "Localização": "São João, 1121",
+        "Número_do_Processo": "24243/85",
+        "Resolução_de_Tombamento": "Resolução 28 de 11/01/2002",
+        "Livro_do_Tombo_Histórico": "Resolução 28 de 11/01/2002"
+    },
+    {
+        "Patrimônio": "Edifício da Associação Auxiliadora das Classes Laboriosas",
+        "Localização": "Rua Roberto Simonsen, 22",
+        "Número_do_Processo": "27943/90",
+        "Resolução_de_Tombamento": "Resolução 45 de 17/10/1995",
+        "Livro_do_Tombo_Histórico": "inscrição nº 317, p.80, 30/01/1996"
+    },
+    {
+        "Patrimônio": "Edifício da Fábrica de Tecidos São Luís",
+        "Localização": "Paula Souza, 492 – Itu",
+        "Número_do_Processo": "22338/82",
+        "Resolução_de_Tombamento": "Resolução 21 de 15/12/1983",
+        "Livro_do_Tombo_Histórico": "inscrição nº 212, p. 59, 28/12/1983"
+    },
+    {
+        "Patrimônio": "Edifício da Manufatura de Tapetes Santa Helena",
+        "Localização": "Barão de Jacareí, 508",
+        "Número_do_Processo": "24090/85",
+        "Resolução_de_Tombamento": "Resolução 33 de 29/11/1990",
+        "Livro_do_Tombo_Histórico": "inscrição nº 297, p. 75, 04/03/1991"
+    },
+    {
+        "Patrimônio": "Edifício Diederichsen",
+        "Localização": "Rua Álvares Cabral, 469 – Ribeirão Preto",
+        "Número_do_Processo": "37922/98",
+        "Resolução_de_Tombamento": "Res. SC 33 de 08/08/05",
+        "Livro_do_Tombo_Histórico": "inscrição nº 366, pg 100, 27/11//2009"
+    }
+]

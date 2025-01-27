@@ -1,0 +1,692 @@
+[
+    {
+        "Patrimônio": "Fórum de São Pedro",
+        "Localização": "Rua General Osório, 846 (Praça Adolfo Bonifácio Bragaia)",
+        "Número_do_Processo": "79750/17",
+        "Resolução_de_Tombamento": "Resolução SC-110 de 07/11/18.",
+        "Livro_do_Tombo_Histórico": "inscrição nº 487, p. 153."
+    },
+    {
+        "Patrimônio": "Fórum e Cadeia de Mogi Mirim",
+        "Localização": "Av. Dr. Jorge Tibiriçá nº 342",
+        "Número_do_Processo": "78582/17",
+        "Resolução_de_Tombamento": "Resolução SC-130 de 26/12/18.",
+        "Livro_do_Tombo_Histórico": "inscrição nº 488, p. 154."
+    },
+    {
+        "Patrimônio": "Fórum e Cadeia de Sertãozinho",
+        "Localização": "Praça Quinze de Novembro",
+        "Número_do_Processo": "24159/85",
+        "Resolução_de_Tombamento": "Resolução 53, de 19/09/85",
+        "Livro_do_Tombo_Histórico": "inscrição nº 240, p. 65."
+    },
+    {
+        "Patrimônio": "Gabinete de Leitura",
+        "Localização": "Avenida 4, 427",
+        "Número_do_Processo": "22297/82",
+        "Resolução_de_Tombamento": "Resolução Secretaria da Cultura 63 de 14/11/85",
+        "Livro_do_Tombo_Histórico": "Inscrição nº 245, p. 66, 22/1/1987"
+    },
+    {
+        "Patrimônio": "Gabinete de leitura Ruy Barbosa",
+        "Localização": "Rua Cândido Rodrigues nº 295/301",
+        "Número_do_Processo": "44.853/02",
+        "Resolução_de_Tombamento": "Res. SC-09, de 11.03.2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 367, pg. 100."
+    },
+    {
+        "Patrimônio": "Garagem América",
+        "Localização": "Rua Riachuelo nº 209 – São Paulo",
+        "Número_do_Processo": "33220/95",
+        "Resolução_de_Tombamento": "Resolução 17 de 15/03/2016",
+        "Livro_do_Tombo_Histórico": "inscrição nº 442, p. 133."
+    },
+    {
+        "Patrimônio": "GE CAMPOS SALLES – SEDE DO MUSEU MABE",
+        "Localização": "Rua São Joaquim, 288 – CEP 01508-000, bairro: Liberdade, São Paulo",
+        "Código_Sec._Est._Educ.": "00.44.101",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "GE Diógenes Ribeiro de Lima (prédio cedido à Prefeitura)",
+        "Localização": "Av. Independência, 172 – CEP 18380-000 – Ribeira",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011.",
+        "Código_Sec._Est._Educ.": "04.40.101"
+    },
+    {
+        "Patrimônio": "GE Irineu Penteado (outros usos)",
+        "Localização": "Rua 1 (um), 1982 – CEP 13500-000 – Rio Claro",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011.",
+        "Código_Sec._Est._Educ.": "05.56.109"
+    },
+    {
+        "Patrimônio": "GE SANTOS DUMONT – PENHA",
+        "Localização": "lorem ipsum dolor sit amet",
+        "Código_Sec._Est._Educ.": "00.18.116",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "Haras São Bernardo",
+        "Localização": "Avenida Taioca e Rua Ducin",
+        "Número_do_Processo": "25054/86",
+        "Resolução_de_Tombamento": "Resolução 8 de 9/3/90 e Resolução Complementar SC-32, de 16/7/07",
+        "Livro_do_Tombo_Arqueológico,_Etnográfico_e_Paisagístico": "inscrição nº 22, p. 306, 10/07/1990"
+    },
+    {
+        "Patrimônio": "Hidroavião Jahu",
+        "Localização": "Avenida Santos Dumont, 1979 – Campo de Marte: Setor B – Hangar da Polícia Militar – Santana",
+        "Número_do_Processo": "39731/00",
+        "Resolução_de_Tombamento": "Resolução Secretaria da Cultura 114 de 12/12/02",
+        "Livro_do_Tombo_Histórico": "inscrição nº 341, p. 88, 14/11/2003"
+    },
+    {
+        "Patrimônio": "Horto e Museu Edmundo Navarro de Andrade",
+        "Localização": "Rio Claro",
+        "Número_do_Processo": "00428/74",
+        "Resolução_de_Tombamento": "Resolução de 9/12/77",
+        "Livro_do_Tombo_Arqueológico,_Etnográfico_e_Paisagístico": "inscrição nº 4, p. 302, 09/04/1979"
+    },
+    {
+        "Patrimônio": "Hospedaria dos Imigrantes",
+        "Localização": "Rua Visconde de Parnaíba, 1316 – Brás",
+        "Número_do_Processo": "20601/78",
+        "Resolução_de_Tombamento": "Resolução 27 de 6/5/82",
+        "Livro_do_Tombo_Histórico": "inscrição nº 188, p. 44, 17/06/1982"
+    },
+    {
+        "Patrimônio": "Hospital e Maternidade Humberto Primo",
+        "Localização": "Alameda Rio Claro, 190 – Bela Vista",
+        "Número_do_Processo": "23374/85",
+        "Resolução_de_Tombamento": "Resolução SC 13, de 18/02/2014 (obs.: revogou a Resolução 29 de 30/07/86)",
+        "Livro_do_Tombo_Histórico": "inscrição nº 255, 23/01/1987, p. 67 e 68"
+    },
+    {
+        "Patrimônio": "Hospital Psiquiátrico Philippe Pinel",
+        "Localização": "Av. Raimundo Pereira Magalhães, 5214",
+        "Número_do_Processo": "56409/07",
+        "Resolução_de_Tombamento": "Resolução 105 de 07/11/18",
+        "Livro_do_Tombo_Histórico": "inscrição nº 482, p. 151."
+    },
+    {
+        "Patrimônio": "Hotel Glória",
+        "Localização": "Rua Pernambuco, 512",
+        "Número_do_Processo": "49876/04",
+        "Resolução_de_Tombamento": "Resolução SC-34 de 04/07/17",
+        "Livro_do_Tombo_Histórico": "inscrição nº 460, p. 139/140."
+    },
+    {
+        "Patrimônio": "Igreja da Ordem Terceira de Nossa Senhora do Carmo",
+        "Localização": "Praça da República",
+        "Número_do_Processo": "358/73",
+        "Livro_do_Tombo_Histórico": "inscrição nº 110, pg. 15."
+    },
+    {
+        "Patrimônio": "Igreja da Ordem Terceira de Nossa Senhora do Carmo, Mogi das Cruzes",
+        "Localização": "Largo do Carmo, Mogi das Cruzes",
+        "Número_do_Processo": "22047/82",
+        "Livro_do_Tombo_Histórico": "inscrição nº 269, p. 70."
+    },
+    {
+        "Patrimônio": "Igreja da Venerável Ordem Terceira de Nossa Senhora do Carmo",
+        "Localização": "Av. Rangel Pestana 230 – São Paulo",
+        "Número_do_Processo": "35.585/97",
+        "Resolução_de_Tombamento": "Resolução SC-18, de 05/05/2021"
+    },
+    {
+        "Patrimônio": "Igreja das Chagas do Seráfico Pai São Francisco",
+        "Localização": "Largo de São Francisco, 173",
+        "Número_do_Processo": "00041/71",
+        "Resolução_de_Tombamento": "Resolução 16 de 19/4/82",
+        "Livro_do_Tombo_Histórico": "inscrição nº 335, p. 166, p. 38, 06/05/1982"
+    },
+    {
+        "Patrimônio": "Igreja de Nossa Senhora do Rosário dos Homens Pretos",
+        "Localização": "Largo do Rosário, s/n – bairro: Penha",
+        "Número_do_Processo": "20776/79",
+        "Resolução_de_Tombamento": "Resolução 23 de 4/5/82",
+        "Livro_do_Tombo_Histórico": "inscrição nº 181, p. 42, 15/6/1982"
+    },
+    {
+        "Patrimônio": "Igreja de Santa Rita",
+        "Localização": "Praça de Santa Rita",
+        "Número_do_Processo": "22089/82",
+        "Resolução_de_Tombamento": "Resolução Secretaria da Cultura 24 de 24/08/90",
+        "Livro_do_Tombo_Histórico": "inscrição nº 293, p. 74, 19/09/1990"
+    },
+    {
+        "Patrimônio": "Igreja de Santo Antônio",
+        "Localização": "Praça do Patriarca, s/n",
+        "Número_do_Processo": "08576/69",
+        "Resolução_de_Tombamento": "Resolução de 09/04/1970",
+        "Livro_do_Tombo_Histórico": "Inscrição nº 335, p. 8, p. 2, s.d."
+    },
+    {
+        "Patrimônio": "Igreja de São Benedito",
+        "Localização": "Praça Afonso Pena, 267 – São José dos Campos",
+        "Número_do_Processo": "20993/79",
+        "Resolução_de_Tombamento": "Resolução 25 de 25/07/1980",
+        "Livro_do_Tombo_Histórico": "inscrição nº 134, p. 25, 29/05/1981"
+    },
+    {
+        "Patrimônio": "Igreja de São Cristóvão",
+        "Localização": "Avenida Tiradentes, 84",
+        "Número_do_Processo": "22078/82",
+        "Resolução_de_Tombamento": "Resolução 56 de 13/05/1982",
+        "Livro_do_Tombo_Histórico": "inscrição nº 196, p. 47, 20/07/1982"
+    },
+    {
+        "Patrimônio": "Igreja de São Francisco de Assis da Venerável Ordem dos Frades Menores",
+        "Localização": "Largo de São Francisco, 133",
+        "Número_do_Processo": "00040/71",
+        "Resolução_de_Tombamento": "Resolução 15 de 19/04/1982",
+        "Livro_do_Tombo_Histórico": "inscrição nº 167, p. 38, 06/05/1982"
+    },
+    {
+        "Patrimônio": "Igreja de São Gonçalo",
+        "Localização": "Praça Dr. João Mendes",
+        "Número_do_Processo": "25428/71",
+        "Resolução_de_Tombamento": "Resolução de 20/09/1971",
+        "Livro_do_Tombo_Histórico": "inscrição nº 58, p. 3, 24/09/1971"
+    },
+    {
+        "Patrimônio": "Igreja de São José da Vila Real",
+        "Localização": "Praça Barão do Rio Branco – Pindamonhangaba",
+        "Número_do_Processo": "20059/76",
+        "Resolução_de_Tombamento": "Resolução Secretaria da Cultura 15 de 11/07/83",
+        "Livro_do_Tombo_Histórico": "inscrição nº 210, p. 58, 22/07/1983"
+    },
+    {
+        "Patrimônio": "Igreja de São Miguel",
+        "Localização": "Praça Padre Aleixo Monteiro Mafra, s/n",
+        "Número_do_Processo": "00368/73",
+        "Resolução_de_Tombamento": "Iphan em 21/10/1938, ex-officio em 11/12/74",
+        "Livro_do_Tombo_Histórico": "inscrição nº 101, p. 14, 06/05/1975"
+    },
+    {
+        "Patrimônio": "Igreja do Senhor Bom Jesus",
+        "Localização": "Praça Padre Anchieta",
+        "Número_do_Processo": "16765/70",
+        "Resolução_de_Tombamento": "Resolução SC-31, de 30-6-88",
+        "Livro_do_Tombo_Histórico": "inscrição nº 281, p. 72, 18/07/1988"
+    },
+    {
+        "Patrimônio": "Igreja e Convento de Nossa Senhora do Carmo",
+        "Localização": "Largo do Carmo, Mogi das Cruzes",
+        "Número_do_Processo": "22048/82",
+        "Livro_do_Tombo_Histórico": "inscrição nº 268, p. 70."
+    },
+    {
+        "Patrimônio": "Igreja e Mosteiro de São Bento",
+        "Localização": "Morro de São Bento",
+        "Número_do_Processo": "00357/73",
+        "Resolução_de_Tombamento": "ex-officio em 13/8/79 – Iphan em 18/3/48",
+        "Livro_do_Tombo_Histórico": "Inscrição nº 30, p. 3, 5/4/1971"
+    },
+    {
+        "Patrimônio": "Igreja Matriz",
+        "Localização": "Praça Cônego Bento de Almeida, São Bento do Sapucaí",
+        "Número_do_Processo": "27095/89",
+        "Resolução_de_Tombamento": "Resolução 24 de 07/05/2015"
+    },
+    {
+        "Patrimônio": "Igreja Matriz de Batatais incluindo a antiga Casa Paroquial e telas de Cândido Portinari",
+        "Localização": "Praça Cônego Joaquim Alves s/nº e nº 202",
+        "Número_do_Processo": "42.682/02",
+        "Resolução_de_Tombamento": "Resolução SC-14, de 05/05/2021"
+    },
+    {
+        "Patrimônio": "Igreja Matriz de Nossa Senhora da Conceição",
+        "Localização": "Praças Gaspar Paulo Mayer e Tenente Cel. Mesquita – Jacupiranga",
+        "Número_do_Processo": "45347/02",
+        "Resolução_de_Tombamento": "Resolução 65 de 21/06/2016",
+        "Livro_do_Tombo_Histórico": "inscrição nº 454, p.136."
+    },
+    {
+        "Patrimônio": "Igreja Matriz de Santana",
+        "Localização": "Praça Narciso de Andrade",
+        "Número_do_Processo": "00349/73",
+        "Livro_do_Tombo_Histórico": "inscrição nº 22, pg. 2."
+    },
+    {
+        "Patrimônio": "Igreja Matriz de Ubatuba e Cruzeiro",
+        "Localização": "Rua Dona Maria Alves, 125",
+        "Número_do_Processo": "52962/06",
+        "Resolução_de_Tombamento": "Resolução 104 de 07/11/18",
+        "Livro_do_Tombo_Histórico": "inscrição nº 493, p.157."
+    },
+    {
+        "Patrimônio": "Igreja Matriz e Antiga Sede da Prefeitura",
+        "Localização": "Capitão Alvim – Cidade Velha",
+        "Número_do_Processo": "22088/82",
+        "Resolução_de_Tombamento": "Resolução 13 de 18/04/1982",
+        "Livro_do_Tombo_Histórico": "inscrição nº 165, p. 37, 06/05/1982"
+    },
+    {
+        "Patrimônio": "Igreja Nossa Senhora D’Ajuda",
+        "Localização": "Praça Padre João Alvares s/ nº, Itaquaquecetuba",
+        "Número_do_Processo": "59340/09",
+        "Resolução_de_Tombamento": "Resolução 16 de 31/03/2014",
+        "Livro_do_Tombo_Histórico": "inscrição nº 413, p. 123"
+    },
+    {
+        "Patrimônio": "Igreja Nossa Senhora da Boa Morte",
+        "Localização": "Rua do Carmo, 202",
+        "Número_do_Processo": "18926/70",
+        "Resolução_de_Tombamento": "Resolução de 26/03/1974",
+        "Livro_do_Tombo_Histórico": "inscrição nº 80, p. 8, 08/03/1974"
+    },
+    {
+        "Patrimônio": "Igreja Nossa Senhora da Escada",
+        "Localização": "Aldeia de Guararema",
+        "Número_do_Processo": "00345/73 e 08569/69",
+        "Resolução_de_Tombamento": "ex-officio em 21/9/72",
+        "Livro_do_Tombo_Histórico": "inscrição nº 61, p. 4, 21/09/1972"
+    },
+    {
+        "Patrimônio": "Igreja Nossa Senhora do Pilar",
+        "Localização": "Bairro do Pilar – Ribeirão Pires",
+        "Número_do_Processo": "00523/75",
+        "Resolução_de_Tombamento": "Resolução de 24/04/1975",
+        "Livro_do_Tombo_Histórico": "inscrição nº 97, p. 13, 06/05/1975"
+    },
+    {
+        "Patrimônio": "Igreja Nossa Senhora do Rosário e Residência Anexa",
+        "Localização": "Largo do Rosário",
+        "Número_do_Processo": "00336/73",
+        "Resolução_de_Tombamento": "ex-officio em 16/01/1974",
+        "Livro_do_Tombo_Histórico": "inscrição nº 75, p. 7, 20/02/1974"
+    },
+    {
+        "Patrimônio": "Ilê Afro-brasileiro Odé Lorecy",
+        "Localização": "Rua Monte Alegre 126",
+        "Número_do_Processo": "81176/18",
+        "Resolução_de_Tombamento": "Resolução SC-34 de 19/12/19"
+    },
+    {
+        "Patrimônio": "Ilê Aláketu Asé Ayrá – Templo Culto Sagrado Tatá Pércio do Battistini",
+        "Localização": "Rua Antônio Batistini 226",
+        "Número_do_Processo": "81177/18",
+        "Resolução_de_Tombamento": "Resolução SC-32 de 19/12/19."
+    },
+    {
+        "Patrimônio": "Ilê Olá Omi Ase Opo Araka",
+        "Localização": "Al. Dos Pinheirais 270",
+        "Número_do_Processo": "81178/18",
+        "Resolução_de_Tombamento": "Resolução SC-33 de 19/12/19."
+    },
+    {
+        "Patrimônio": "Ilhas, Ilhotas e Lajes",
+        "Localização": "Municípios: Bertioga, Caraguatatuba, Itanhaém, Santos, São Sebastião e Ubatuba",
+        "Número_do_Processo": "26855/89",
+        "Resolução_de_Tombamento": "Resolução SC-8 de 24/03/94",
+        "Livro_do_Tombo_Arqueológico,_Etnográfico_e_Paisagístico": "inscrição nº 27, pp. 308 e 309, 20/05/1994"
+    },
+    {
+        "Patrimônio": "Imagem de Nossa Senhora Aparecida",
+        "Localização": "Basílica de Nossa Senhora Aparecida",
+        "Número_do_Processo": "70228/13",
+        "Resolução_de_Tombamento": "Resolução 111 de 30/12/14",
+        "Livro_do_Tombo_Histórico": "inscrição nº 427, p. 128."
+    },
+    {
+        "Patrimônio": "Imagem de Nossa Senhora da Escada",
+        "Localização": "Aldeia de Barueri",
+        "Número_do_Processo": "20849/79",
+        "Resolução_de_Tombamento": "ex-officio em 09/04/1979",
+        "Livro_do_Tombo_Histórico": "inscrição nº 131, p. 12, 09/04/1979"
+    },
+    {
+        "Patrimônio": "Imagem Nossa Senhora do Rosário",
+        "Localização": "São Paulo – SP",
+        "Número_do_Processo": "58.694/08",
+        "Resolução_de_Tombamento": "Tombamento ex-officio em 27.04.2009"
+    },
+    {
+        "Patrimônio": "Indústrias Reunidas Francisco Matarazzo",
+        "Localização": "Avenida Francisco Matarazzo, 1096 – Água Branca",
+        "Número_do_Processo": "24263/85",
+        "Resolução_de_Tombamento": "Resolução 14 de 05/06/1986 e Resolução 19 de 10/11/1993",
+        "Livro_do_Tombo_Histórico": "inscrição nº 253, p. 67, 23/01/1987"
+    },
+    {
+        "Patrimônio": "Indústrias Reunidas Francisco Matarazzo – Marília",
+        "Localização": "Rua Castro Alves, 276 – Marília",
+        "Número_do_Processo": "26030/88",
+        "Resolução_de_Tombamento": "Resolução 46 de 18/12/1992",
+        "Livro_do_Tombo_Histórico": "inscrição nº 307, p. 77 e 78, 28/06/1993"
+    },
+    {
+        "Patrimônio": "Indústrias Têxteis São Martinho",
+        "Localização": "Rua Nhonhô da Botica – Tatuí",
+        "Número_do_Processo": "31877/94",
+        "Resolução_de_Tombamento": "Resolução SC-61 de 30/10/2007",
+        "Livro_do_Tombo_Histórico": "inscrição nº 358, p. 97, 12/03/2008"
+    },
+    {
+        "Patrimônio": "Instituto Agronômico de Campinas",
+        "Localização": "Av. Barão de Itapura nº 1481, Campinas",
+        "Número_do_Processo": "23128/84",
+        "Resolução_de_Tombamento": "Resolução 26, de 12/05/2014"
+    },
+    {
+        "Patrimônio": "Instituto Biológico",
+        "Localização": "Avenida Conselheiro Rodrigues Alves, 1252 – Vila Mariana",
+        "Número_do_Processo": "33348/95",
+        "Resolução_de_Tombamento": "Resolução Secretaria da Cultura 113 de 25/02/02",
+        "Livro_do_Tombo_Histórico": "inscrição nº 334, p. 85, 22/04/2002"
+    },
+    {
+        "Patrimônio": "Instituto Butantã",
+        "Localização": "Avenida Vital Brasil, 1500",
+        "Número_do_Processo": "21306/80",
+        "Resolução_de_Tombamento": "Resolução 35 de 14/09/1981",
+        "Livro_do_Tombo_Histórico": "inscrição nº 98, p. 13, 06/05/1975"
+    },
+    {
+        "Patrimônio": "Instituto de Educação Caetano de Campos",
+        "Localização": "Praça da República, 54",
+        "Número_do_Processo": "00610/75",
+        "Resolução_de_Tombamento": "Resolução de 03/06/1976",
+        "Livro_do_Tombo_Histórico": "inscrição nº 112, p. 16, 25/6/1979"
+    },
+    {
+        "Patrimônio": "Instituto de Educação Cardoso de Almeida",
+        "Localização": "Praça 9 de Julho, s/n – Botucatu",
+        "Número_do_Processo": "25590/87",
+        "Resolução_de_Tombamento": "Resolução 9 de 4/5/89",
+        "Livro_do_Tombo_Histórico": "inscrição nº 288, p. 73, 08/06/1989"
+    },
+    {
+        "Patrimônio": "Instituto de Educação Doutor Álvaro Guião",
+        "Localização": "Avenida São Carlos, 2190",
+        "Número_do_Processo": "24202/85",
+        "Resolução_de_Tombamento": "Resolução 60 de 4/11/85",
+        "Livro_do_Tombo_Histórico": "inscrição nº 244, pp. 65 e 66, 22/01/1987"
+    },
+    {
+        "Patrimônio": "Instituto Mackenzie",
+        "Localização": "Rua Itambé, 45",
+        "Número_do_Processo": "24020/85",
+        "Resolução_de_Tombamento": "Resolução 27 de 15/12/93",
+        "Livro_do_Tombo_Histórico": "inscrição nº 312, p. 78, 18/04/1994"
+    },
+    {
+        "Patrimônio": "Instituto Oscar Freire",
+        "Localização": "Instituto Oscar Freire",
+        "Número_do_Processo": "20625/78",
+        "Resolução_de_Tombamento": "Resolução 66 de 09/12/1982, revogada pela Resolução SC-31 de 19/12/2019.",
+        "Livro_do_Tombo_Histórico": "inscrição n.º 205, p. 56, 17/12/1982"
+    },
+    {
+        "Patrimônio": "Jardim da Luz",
+        "Localização": "Rua Ribeiro de Lima, 99",
+        "Número_do_Processo": "20236/77",
+        "Resolução_de_Tombamento": "Resolução 31 de 08/08/1981",
+        "Livro_do_Tombo_Arqueológico,_Etnográfico_e_Paisagístico": "inscrição nº 7, p. 303, 18/08/1986"
+    },
+    {
+        "Patrimônio": "Jardins da Orla",
+        "Localização": "Área delimitada entre o eixo da Rua Newton Prado até o eixo da Rua Carlos de Campos, junto à ponta da Praia – Santos",
+        "Número_do_Processo": "42390/01",
+        "Resolução_de_Tombamento": "Resolução 68 de 24/08/2011 e Resolução 18 de 15/03/2016"
+    },
+    {
+        "Patrimônio": "Jockey Club de São Paulo",
+        "Localização": "Av. Lineu de Paula Machado nº 1263, Morumbi, São Paulo, SP",
+        "Número_do_Processo": "58.350/08",
+        "Resolução_de_Tombamento": "Resolução SC-97, de 19.11.2010",
+        "Livro_do_Tombo_Histórico": "Inscrição 376, pág. 103"
+    },
+    {
+        "Patrimônio": "Kaigai Kogyo Kabushiki Kaisha",
+        "Localização": "Registro",
+        "Número_do_Processo": "22261/82",
+        "Resolução_de_Tombamento": "Resolução 4 de 19/01/1987",
+        "Livro_do_Tombo_Histórico": "inscrição nº 262, p. 68, 23/01/1987"
+    },
+    {
+        "Patrimônio": "Largo da Memória",
+        "Localização": "Rua Xavier de Toledo e Rua Quirino de Andrade",
+        "Número_do_Processo": "00044/71",
+        "Resolução_de_Tombamento": "Resolução de 02/04/1975",
+        "Livro_do_Tombo_Histórico": "inscrição nº 96, p. 13, 04/04/1975"
+    },
+    {
+        "Patrimônio": "Maciço de Juréia e Rio Verde",
+        "Localização": "Praia da Juréia – Iguape",
+        "Número_do_Processo": "306/73",
+        "Resolução_de_Tombamento": "Resolução 11 de 25/7/79",
+        "Livro_do_Tombo_Arqueológico,_Etnográfico_e_Paisagístico": "inscrição nº 5, p. 303, 18/08/1986"
+    },
+    {
+        "Patrimônio": "Matadouro de Vila Mariana",
+        "Localização": "Largo Senador Raul Cardoso, 133 e 207",
+        "Número_do_Processo": "22625/83",
+        "Resolução_de_Tombamento": "Resolução 07 de 04/03/1985",
+        "Livro_do_Tombo_Histórico": "inscrição nº 235, p. 64, 20/01/1987"
+    },
+    {
+        "Patrimônio": "Mausoleu do Soldado Constitucionalista",
+        "Localização": "Parque do Ibirapuera",
+        "Número_do_Processo": "20294/77",
+        "Resolução_de_Tombamento": "Resolução 23 de 09/07/1981",
+        "Livro_do_Tombo_Histórico": "inscrição nº 150, p. 27, 22/12/1981"
+    },
+    {
+        "Patrimônio": "Memorial da América Latina",
+        "Localização": "Av. Mário de Andrade, 664 – Barra Funda",
+        "Número_do_Processo": "31592/94",
+        "Resolução_de_Tombamento": "Resolução 75 de 11/12/1997",
+        "Livro_do_Tombo_Histórico": "inscrição nº 320, pp. 80 e 81, 22/01/1998"
+    },
+    {
+        "Patrimônio": "Mercado Municipal de Campinas",
+        "Localização": "Rua Benjamin Constant, s/n – Campinas",
+        "Número_do_Processo": "22362/83",
+        "Resolução_de_Tombamento": "Resolução 1 de 24/01/1983",
+        "Livro_do_Tombo_Histórico": "inscrição nº 208, p. 57, 01/02/1983"
+    },
+    {
+        "Patrimônio": "Mercado Municipal de Santo Amaro",
+        "Localização": "Praça Francisco Ferreira Lopes",
+        "Número_do_Processo": "16705/70",
+        "Resolução_de_Tombamento": "Resolução de 21/09/1972",
+        "Livro_do_Tombo_Histórico": "inscrição nº 66, p. 6, 04/10/1972"
+    },
+    {
+        "Patrimônio": "Mercado Municipal Paulistano",
+        "Localização": "Rua da Cantareira, 306 e 377 – Centro",
+        "Número_do_Processo": "26399/88",
+        "Resolução_de_Tombamento": "Resolução 43 de 02/09/2004",
+        "Livro_do_Tombo_Histórico": "inscrição nº 344, p.92, 30/09/2004"
+    },
+    {
+        "Patrimônio": "Moinho Matarazzo",
+        "Localização": "Rua Monsenhor de Andrade nº 88",
+        "Número_do_Processo": "27706/90",
+        "Resolução_de_Tombamento": "Resolução 102 de 07/11/18.",
+        "Livro_do_Tombo_Histórico": "inscrição nº 486, p. 158."
+    },
+    {
+        "Patrimônio": "Monumento às Bandeiras",
+        "Localização": "Praça Armando de Sales Oliveira",
+        "Número_do_Processo": "23074/84",
+        "Resolução_de_Tombamento": "Resolução 31 de 07/05/1985\nLivro do Tombo Histórico: inscrição nº 238, p. 65, 21/01/1987"
+    },
+    {
+        "Patrimônio": "Morro do Botelho",
+        "Localização": "Bairro da Barra Funda",
+        "Número_do_Processo": "22694/83",
+        "Resolução_de_Tombamento": "Resolução 15, de 01/08/84",
+        "Livro_do_Tombo_Arqueológico,_Etnográfico_e_Paisagístico": "inscrição nº 15, p. 304, 08/09/1986",
+        "Regulamentação_da_Área_Envoltória": "Resolução SCEC 32 de 15/09/21"
+    },
+    {
+        "Patrimônio": "Morro do Juquery e Pico Olho D’água",
+        "Localização": "Setor Norte da Região Metropolitana de São Paulo",
+        "Número_do_Processo": "29643/92",
+        "Resolução_de_Tombamento": "Resolução 50 de 13/10/2004",
+        "Livro_do_Tombo_Arqueológico,_Etnográfico_e_Paisagístico": "inscrição nº 29, p. 309/310, 19/09/2005"
+    },
+    {
+        "Patrimônio": "Morros do Monduba, do Pinto e do Icanhema",
+        "Localização": "Praia do Guaiúba – Guarujá",
+        "Número_do_Processo": "20650/78",
+        "Resolução_de_Tombamento": "Resolução 66 de 10/12/1985",
+        "Livro_do_Tombo_Arqueológico,_Etnográfico_e_Paisagístico": "inscrição nº 17, p. 305, 08/09/1986"
+    },
+    {
+        "Patrimônio": "Mosteiro da Imaculada Conceição da Luz",
+        "Localização": "Avenida Tiradentes, 676",
+        "Número_do_Processo": "22.057/82",
+        "Resolução_de_Tombamento": "ex-officio em 27/08/79 e 12/05/82",
+        "Livro_do_Tombo_Histórico": "inscrição nº 38, pg. 03."
+    },
+    {
+        "Patrimônio": "Mosteiro de São Bento",
+        "Localização": "Largo de São Bento – Sorocaba",
+        "Número_do_Processo": "20117/76",
+        "Resolução_de_Tombamento": "Resolução 41 de 12/05/1982",
+        "Livro_do_Tombo_Histórico": "inscrição nº 194, p. 47, 19/07/1982",
+        "Área_Envoltória": ""
+    },
+    {
+        "Patrimônio": "Museu – GE Prof. José Augusto de Azevedo Nunes",
+        "Localização": "Rua Senador Fláquer, 470 – CEP 09000-000 – Santo André",
+        "Código_Sec._Est._Educ.": "01.32.112",
+        "Número_do_Processo": "24929/86",
+        "Resolução_de_Tombamento": "Resolução 60 de 21/07/2010",
+        "Livro_do_Tombo_Histórico": "inscrição nº 377, p. 103 a 110, 05/09/2011."
+    },
+    {
+        "Patrimônio": "Museu de Arte de São Paulo “Assis Chateaubriand” – Masp",
+        "Localização": "Avenida Paulista, 1578",
+        "Número_do_Processo": "21768/81",
+        "Resolução_de_Tombamento": "Resolução 48 de 13/05/1982\nLivro do Tombo Histórico: inscrição nº 190, p. 45, 22/06/1982"
+    },
+    {
+        "Patrimônio": "Museu de Pesca",
+        "Localização": "Avenida Bartolomeu Gusmão, 192 – Santos",
+        "Número_do_Processo": "25628/87",
+        "Resolução_de_Tombamento": "Resolução 40 de 02/04/1998",
+        "Livro_do_Tombo_Histórico": "Inscrição nº 321, p. 81, 26/8/1998"
+    },
+    {
+        "Patrimônio": "Museu Republicano",
+        "Localização": "Rua Barão do Itaim, Itu",
+        "Número_do_Processo": "00352/73",
+        "Livro_do_Tombo_Histórico": "inscrição nº 137, p. 25."
+    },
+    {
+        "Patrimônio": "Nascente do Rio Tietê",
+        "Localização": "Bairro de São Benedito",
+        "Número_do_Processo": "00448/74",
+        "Resolução_de_Tombamento": "Resolução 6 de 21/02/1990",
+        "Livro_do_Tombo_Arqueológico,_Etnográfico_e_Paisagístico": "inscrição nº 21, p. 306, 10/07/1990"
+    },
+    {
+        "Patrimônio": "Núcleo Histórico Urbano",
+        "Localização": "diversos (vide Resolução)",
+        "Número_do_Processo": "24.300/85",
+        "Resoluções_de_Tombamento": "Resolução 10, de 11-2-87 e Resolução SC-12, de 4-3-96",
+        "Publicações_do_Diário_Oficial": "",
+        "Livro_do_Tombo_Histórico": "inscrição 274, pág. 71, em 25/03/87"
+    },
+    {
+        "Patrimônio": "Oficina Cultural Oswald de Andrade",
+        "Localização": "Rua Três Rios, 363",
+        "Número_do_Processo": "22033/82",
+        "Resolução_de_Tombamento": "Resolução 52 de 02/06/2016 (obs.: que revogou a Resolução 60 de 15/07/1982)",
+        "Livro_do_Tombo_Histórico": "inscrição nº 197, p. 48, 20/07/1982"
+    },
+    {
+        "Patrimônio": "Outeiro de Santa Catarina",
+        "Localização": "Rua Visconde do Rio Branco, 48",
+        "Número_do_Processo": "24317/85",
+        "Resolução_de_Tombamento": "Resolução 07 de 09/04/1986",
+        "Livro_do_Tombo_Histórico": "inscrição nº 250, p. 66, 22/01/1987"
+    },
+    {
+        "Patrimônio": "Paço Municipal de Santo André",
+        "Localização": "Praça IV Centenário s/nº",
+        "Número_do_Processo": "33184/95",
+        "Resolução_de_Tombamento": "Resolução 15 de 08/04/2013",
+        "Livro_do_Tombo_Histórico": "inscrição nº 397, p. 115."
+    },
+    {
+        "Patrimônio": "Palacete Palmeira",
+        "Localização": "Deputado Claro César, esquina com a Rua Marechal Deodoro – Pindamonhangaba",
+        "Número_do_Processo": "7855/69",
+        "Resolução_de_Tombamento": "Resolução de 11/12/1969",
+        "Livro_do_Tombo_Histórico": "inscrição nº 77, p. 8, 20/02/1974"
+    },
+    {
+        "Patrimônio": "Palácio 10 de Julho",
+        "Localização": "Deputado Claro César, 33 – Pindamonhangaba",
+        "Número_do_Processo": "07864/69",
+        "Resolução_de_Tombamento": "Resolução de 12/12/1969",
+        "Livro_do_Tombo_Histórico": "inscrição nº 78, p. 8, 20/02/1974"
+    },
+    {
+        "Patrimônio": "Palácio da Justiça",
+        "Localização": "Praça da Sé, 270",
+        "Número_do_Processo": "21903/81",
+        "Resolução_de_Tombamento": "Resolução 50 de 29/12/1981\nLivro do Tombo Histórico: inscrição nº 159, p. 35, s.d."
+    },
+    {
+        "Patrimônio": "Palácio da Mogiana",
+        "Localização": "Av. Dr. Campos Salles",
+        "Número_do_Processo": "24328/86",
+        "Resolução_de_Tombamento": "Resolução SC-127 de 26/12/18."
+    },
+    {
+        "Patrimônio": "Palácio das Indústrias",
+        "Localização": "Parque Dom Pedro II",
+        "Número_do_Processo": "20867/79",
+        "Resolução_de_Tombamento": "Resolução 29 de 07/05/1982",
+        "Livro_do_Tombo_Histórico": "inscrição nº 191, p. 45, 24/06/1982"
+    },
+    {
+        "Patrimônio": "Palácio do Imperador",
+        "Localização": "Itapura",
+        "Número_do_Processo": "12318/1969",
+        "Resolução_de_Tombamento": "Resolução de 04/12/1969",
+        "Livro_do_Tombo_Arqueológico,_Etnográfico_e_Paisagístico": "inscrição nº 2, p. 302, 26/10/1973"
+    },
+    {
+        "Patrimônio": "Palácio dos Azulejos",
+        "Localização": "Rua Regente Feijó, 841",
+        "Número_do_Processo": "17270/70",
+        "Resolução_de_Tombamento": "Ex-Officio em 25/03/1981",
+        "Livro_do_Tombo_Histórico": "inscrição nº 147, p. 27, 22/12/1981"
+    },
+    {
+        "Patrimônio": "Palácio dos Campos Elíseos",
+        "Localização": "Avenida Rio Branco, 1269",
+        "Número_do_Processo": "16265/1970",
+        "Resolução_de_Tombamento": "Resolução de 02/08/1977",
+        "Livro_do_Tombo_Histórico": "inscrição nº 114, p. 17, 26/06/1979"
+    },
+    {
+        "Patrimônio": "Parque da Aclimação e Áreas Verdes Adjacentes",
+        "Localização": "Rua Muniz de Souza, 1119 – Aclimação",
+        "Número_do_Processo": "24832/86",
+        "Resolução_de_Tombamento": "Resolução 42 de 02/10/1986",
+        "Livro_do_Tombo_Arqueológico,_Etnográfico_e_Paisagístico": "inscrição nº 19, p. 305, 13/10/1986"
+    },
+    {
+        "Patrimônio": "Parque da Independência",
+        "Localização": "Avenida D. Pedro I",
+        "Número_do_Processo": "08486/69",
+        "Resolução_de_Tombamento": "Resolução de 02/04/1975",
+        "Livro_do_Tombo_Histórico": "inscrição nº 95, p. 12, 04/04/1975"
+    }
+]
